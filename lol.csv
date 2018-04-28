@@ -1,0 +1,1580 @@
+duration,num_subscribers,influencer,dow,views,view_rate,has_tags,prod_focus,reach,media_type,post_type,influencer_type,FTC_Converted,In_Person_Converted,Giveaway_Converted,Reoccuring_Converted,ViewRate_Binary,id
+530,280345,ABC Children's ToysReview,Monday,3455,1.23,0,1,Large Scale (100K-500K),Likely Paid,Review/Product Shoutout,Kid Toy,0,0,0,0,0,1
+1000,280345,ABC Children's ToysReview,Monday,2104,0.75,0,1,Large Scale (100K-500K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,0,2
+290,13413,"ADULTING, with children",Monday,3518,28.03,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,1,3
+475,13413,"ADULTING, with children",Thursday,8849,70.5,0,1,Mid Scale (10K-100K),100% Product Was Sent,Unboxing,Toy Reviewer,1,1,0,0,1,4
+515,13413,"ADULTING, with children",Thursday,782215,6231.8,0,1,Mid Scale (10K-100K),100% Product Was Sent,Unboxing,Toy Reviewer,1,0,0,0,1,5
+461,13413,"ADULTING, with children",Saturday,10896,86.81,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,6
+335,13413,"ADULTING, with children",Monday,113957,907.88,0,1,Mid Scale (10K-100K),100% Organic,Hacks/Insider Content,Toy Reviewer,0,0,1,0,1,7
+267,13413,"ADULTING, with children",Friday,8075,64.33,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,1,8
+369,13413,"ADULTING, with children",Saturday,23191,184.76,0,1,Mid Scale (10K-100K),Likely Product Was Sent,Review/Product Shoutout,Toy Reviewer,0,0,0,0,1,9
+625,13413,"ADULTING, with children",Monday,1695,13.5,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Toy Reviewer,0,0,0,0,0,10
+170,13414,"ADULTING, with children",Wednesday,49080,391.01,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,11
+219,13414,"ADULTING, with children",Friday,233822,1862.83,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,1,12
+520,13414,"ADULTING, with children",Sunday,24319,193.75,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,1,13
+189,13414,"ADULTING, with children",Wednesday,4361,34.74,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,1,0,1,14
+278,13414,"ADULTING, with children",Friday,158891,1265.86,0,1,Mid Scale (10K-100K),100% Organic,Retailer Visit,Toy Reviewer,0,0,0,0,1,15
+314,13414,"ADULTING, with children",Saturday,129360,1030.59,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Toy Reviewer,0,0,0,0,1,16
+136,13414,"ADULTING, with children",Sunday,98689,786.24,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,1,17
+393,13414,"ADULTING, with children",Tuesday,2875,22.9,0,1,Mid Scale (10K-100K),100% Product Was Sent,Review/Product Shoutout,Toy Reviewer,0,0,0,0,1,18
+350,13414,"ADULTING, with children",Wednesday,6458,51.45,0,1,Mid Scale (10K-100K),100% Organic,Unboxing,Toy Reviewer,0,0,0,0,1,19
+360,13414,"ADULTING, with children",Thursday,14266,113.66,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Toy Reviewer,0,0,0,0,1,20
+215,13414,"ADULTING, with children",Friday,182374,1452.95,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,21
+448,13414,"ADULTING, with children",Saturday,11278,89.85,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,1,22
+331,13414,"ADULTING, with children",Sunday,6317,50.33,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Toy Reviewer,0,0,0,0,1,23
+268,13414,"ADULTING, with children",Tuesday,4781,38.09,0,1,Mid Scale (10K-100K),100% Product Was Sent,Unboxing,Toy Reviewer,0,0,0,0,1,24
+100,13414,"ADULTING, with children",Tuesday,79595,634.12,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,25
+254,13414,"ADULTING, with children",Thursday,5684,45.28,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,1,26
+405,13414,"ADULTING, with children",Friday,2830,22.55,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,27
+188,13414,"ADULTING, with children",Saturday,35833,285.48,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,28
+441,13414,"ADULTING, with children",Sunday,12542,99.92,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,29
+74,13414,"ADULTING, with children",Wednesday,9665,77,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,30
+219,13414,"ADULTING, with children",Friday,94554,753.36,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Toy Reviewer,0,0,0,0,1,31
+1170,13414,"ADULTING, with children",Saturday,20112,160.24,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Toy Reviewer,0,1,0,0,1,32
+332,13414,"ADULTING, with children",Sunday,2280,18.17,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,1,0,0,1,33
+189,13414,"ADULTING, with children",Monday,7301,58.17,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,1,0,0,1,34
+200,13414,"ADULTING, with children",Friday,6989,55.68,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,1,0,0,1,35
+599,13414,"ADULTING, with children",Saturday,2774,22.1,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,1,0,1,36
+358,13414,"ADULTING, with children",Monday,14495,115.49,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,1,37
+247,13414,"ADULTING, with children",Wednesday,111398,887.56,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,38
+331,13414,"ADULTING, with children",Saturday,5963,47.51,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Toy Reviewer,0,0,0,0,1,39
+297,13414,"ADULTING, with children",Saturday,3747,29.85,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,1,40
+241,13414,"ADULTING, with children",Sunday,1510,12.03,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,0,41
+304,13414,"ADULTING, with children",Monday,13329,106.2,0,1,Mid Scale (10K-100K),Product Sent Not From Brand,Unboxing,Toy Reviewer,0,0,0,0,1,42
+275,13414,"ADULTING, with children",Saturday,2809,22.38,0,1,Mid Scale (10K-100K),Product Sent Not From Brand,Challenge,Toy Reviewer,0,0,1,0,1,43
+272,13414,"ADULTING, with children",Sunday,8307,66.19,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,1,44
+100,13414,"ADULTING, with children",Friday,3515,28.01,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,1,45
+218,13414,"ADULTING, with children",Friday,3126,24.91,0,1,Mid Scale (10K-100K),Likely Organic,Family Vlog,Family Vlog,0,0,0,0,1,46
+308,13414,"ADULTING, with children",Sunday,4981,39.69,0,1,Mid Scale (10K-100K),Likely Product Was Sent,Unboxing,Family Vlog,1,0,1,0,1,47
+372,13414,"ADULTING, with children",Tuesday,2379,18.95,0,1,Mid Scale (10K-100K),Likely Organic,Family Vlog,Family Vlog,0,0,0,0,1,48
+325,13414,"ADULTING, with children",Thursday,965,7.69,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Family Vlog,0,0,0,0,0,49
+137,13414,"ADULTING, with children",Saturday,2732,21.77,0,1,Mid Scale (10K-100K),Likely Paid,Challenge,Family Vlog,0,0,0,0,1,50
+513,435529,Always Alyssa,Friday,102375,23.87,0,1,Large Scale (100K-500K),Likely Product Was Sent,Unboxing,Kid Toy,0,0,1,0,1,51
+520,435529,Always Alyssa,Friday,397192,92.62,0,1,Large Scale (100K-500K),Likely Paid,Unboxing,Kid Toy,0,0,0,0,1,52
+449,5697,AmazingKids Toys,Wednesday,13003,233.91,0,1,Micro (<10K),Likely Product Was Sent,Unboxing,Toy Reviewer,0,0,0,0,1,53
+457,5697,AmazingKids Toys,Wednesday,25899,465.89,0,1,Micro (<10K),Likely Product Was Sent,Unboxing,Toy Reviewer,0,0,0,0,1,54
+397,5697,AmazingKids Toys,Friday,7473,134.43,0,1,Micro (<10K),Likely Product Was Sent,Unboxing,Toy Reviewer,0,0,0,0,1,55
+305,5697,AmazingKids Toys,Friday,5160,92.82,0,1,Micro (<10K),Likely Product Was Sent,Unboxing,Toy Reviewer,0,0,0,0,1,56
+1564,44383,Amy Jo,Thursday,20706,47.33,0,1,Mid Scale (10K-100K),Likely Product Was Sent,Unboxing,Toy Reviewer,0,0,0,1,1,57
+1268,44383,Amy Jo,Saturday,85827,196.2,0,1,Mid Scale (10K-100K),Likely Product Was Sent,Unboxing,Toy Reviewer,0,0,0,0,1,58
+916,44383,Amy Jo,Monday,184857,422.58,0,1,Mid Scale (10K-100K),Likely Product Was Sent,Unboxing,Toy Reviewer,0,0,0,1,1,59
+1600,44383,Amy Jo,Wednesday,13013,29.75,1,1,Mid Scale (10K-100K),Likely Product Was Sent,Unboxing,Toy Reviewer,0,0,0,1,1,60
+784,44383,Amy Jo,Saturday,16172,36.97,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Toy Reviewer,0,0,0,1,1,61
+1194,44383,Amy Jo,Saturday,26488,60.55,0,1,Mid Scale (10K-100K),Likely Paid,Unboxing,Toy Reviewer,0,0,0,1,1,62
+1295,44383,Amy Jo,Wednesday,9943,22.73,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Toy Reviewer,0,0,0,1,1,63
+1470,44383,Amy Jo,Saturday,3057,6.99,0,1,Mid Scale (10K-100K),100% Paid,Unboxing,Toy Reviewer,0,1,0,1,0,64
+1089,63523,Anthony Bartoloni,Wednesday,1134,1.78,0,1,Mid Scale (10K-100K),Likely Product Was Sent,Unboxing,Kid Toy,0,0,0,0,0,65
+0,0,Super S,Wednesday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,66
+604,5047,ARIANAKYLIE,Wednesday,125,2.48,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,67
+892,5047,ARIANAKYLIE,Wednesday,454,9,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,68
+263,5047,ARIANAKYLIE,Thursday,82,1.63,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,69
+100,6641,Aubri's World,Saturday,9943,157.68,0,1,Micro (<10K),100% Paid,Review/Product Shoutout,Kid Toy,1,0,0,1,1,70
+192,6641,Aubri's World,Wednesday,49535,785.52,0,1,Micro (<10K),Likely Product Was Sent,Review/Product Shoutout,Kid Toy,0,0,0,1,1,71
+215,6641,Aubri's World,Tuesday,172779,2739.91,0,1,Micro (<10K),Likely Product Was Sent,Review/Product Shoutout,Kid Toy,0,0,0,1,1,72
+217,6641,Aubri's World,Friday,48174,763.94,0,1,Micro (<10K),Likely Product Was Sent,Review/Product Shoutout,Kid Toy,0,0,0,1,1,73
+337,6641,Aubri's World,Thursday,25612,406.15,0,1,Micro (<10K),Likely Product Was Sent,Storytelling,Kid Toy,0,0,0,1,1,74
+651,6641,Aubri's World,Wednesday,5219,82.76,0,1,Micro (<10K),Likely Product Was Sent,Storytelling,Kid Toy,0,0,0,1,1,75
+70,6641,Aubri's World,Friday,9129,144.77,0,1,Micro (<10K),Likely Product Was Sent,Review/Product Shoutout,Kid Toy,0,0,0,1,1,76
+188,6641,Aubri's World,Sunday,415219,6584.51,0,1,Micro (<10K),Likely Product Was Sent,Review/Product Shoutout,Kid Toy,0,0,0,1,1,77
+76,6641,Aubri's World,Tuesday,78950,1251.98,0,1,Micro (<10K),Likely Product Was Sent,Review/Product Shoutout,Kid Toy,0,0,0,1,1,78
+343,6641,Aubri's World,Saturday,16042,254.39,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,1,1,79
+72,6641,Aubri's World,Tuesday,21777,345.34,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,1,1,80
+111,6641,Aubri's World,Wednesday,116520,1847.76,0,1,Micro (<10K),Likely Product Was Sent,Review/Product Shoutout,Kid Toy,0,0,0,1,1,81
+135,6641,Aubri's World,Friday,2966,47.03,0,1,Micro (<10K),Likely Product Was Sent,Unboxing,Kid Toy,0,0,0,1,1,82
+67,6641,Aubri's World,Saturday,33385,529.42,0,1,Micro (<10K),Likely Product Was Sent,Unboxing,Kid Toy,0,0,0,1,1,83
+747,6641,Aubri's World,Tuesday,7437,117.94,0,1,Micro (<10K),Likely Product Was Sent,Unboxing,Kid Toy,0,0,0,1,1,84
+180,6641,Aubri's World,Tuesday,129586,2054.96,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,1,1,85
+71,6641,Aubri's World,Friday,300041,4758.02,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,1,1,86
+702,6641,Aubri's World,Wednesday,1723,27.32,0,1,Micro (<10K),Likely Organic,Challenge,Kid Toy,0,0,0,1,1,87
+222,6641,Aubri's World,Friday,162491,2576.77,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,1,1,88
+816,6641,Aubri's World,Monday,1440,22.84,0,1,Micro (<10K),Likely Organic,Challenge,Kid Toy,0,0,0,1,1,89
+121,6641,Aubri's World,Friday,2352,37.3,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,1,1,90
+705,6641,Aubri's World,Thursday,17750,281.52,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,1,1,91
+1387,42773,Ava Toy Show,Saturday,3490,8.67,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,1,0,0,0,0,92
+705,4068776,AWESMR Kids,Saturday,25911,0.64,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,93
+399,1760273,B2cuteCupcakes,Saturday,26903,1.54,0,1,Mega (500K+),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,0,94
+316,153938,Baby Alive Dolls and Toys [Baby Alive Channel],Sunday,2150,1.4,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,95
+517,153938,Baby Alive Dolls and Toys [Baby Alive Channel],Saturday,4497,2.94,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,96
+672,153938,Baby Alive Dolls and Toys [Baby Alive Channel],Wednesday,2957,1.93,0,1,Large Scale (100K-500K),Likely Product Was Sent,Unboxing,Storyteller,0,0,0,0,0,97
+617,153938,Baby Alive Dolls and Toys [Baby Alive Channel],Saturday,1889,1.23,0,1,Large Scale (100K-500K),Likely Product Was Sent,Unboxing,Storyteller,0,0,0,0,0,98
+477,153938,Baby Alive Dolls and Toys [Baby Alive Channel],Tuesday,5373,3.51,0,1,Large Scale (100K-500K),Likely Product Was Sent,Unboxing,Storyteller,0,0,0,0,0,99
+560,153938,Baby Alive Dolls and Toys [Baby Alive Channel],Friday,3238,2.11,0,1,Large Scale (100K-500K),Likely Product Was Sent,Unboxing,Storyteller,0,0,0,0,0,100
+261,153938,Baby Alive Dolls and Toys [Baby Alive Channel],Friday,2852,1.86,0,1,Large Scale (100K-500K),Likely Organic,Skit,Storyteller,0,0,0,0,0,101
+653,500700,Baby Dolls & Little Girls,Friday,115417,23.55,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,102
+684,500700,Baby Dolls & Little Girls,Monday,126394,25.79,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,103
+927,500700,Baby Dolls & Little Girls,Monday,498286,101.65,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,104
+628,500700,Baby Dolls & Little Girls,Friday,73486,14.99,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,105
+669,500700,Baby Dolls & Little Girls,Wednesday,852429,173.9,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,106
+897,500700,Baby Dolls & Little Girls,Monday,924843,188.68,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,107
+2052,500700,Baby Dolls & Little Girls,Monday,168076,34.29,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,108
+662,500700,Baby Dolls & Little Girls,Tuesday,262627,53.58,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,109
+791,500700,Baby Dolls & Little Girls,Saturday,25014,5.1,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,110
+635,500700,Baby Dolls & Little Girls,Saturday,314752,64.21,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,111
+877,500700,Baby Dolls & Little Girls,Wednesday,128745,26.27,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,112
+702,500700,Baby Dolls & Little Girls,Friday,40709,8.31,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,113
+663,500700,Baby Dolls & Little Girls,Saturday,364472,74.36,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,114
+603,500700,Baby Dolls & Little Girls,Thursday,123520,25.2,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,115
+487,500700,Baby Dolls & Little Girls,Saturday,294193,60.02,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,116
+602,500700,Baby Dolls & Little Girls,Saturday,377768,77.07,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,117
+1030,500700,Baby Dolls & Little Girls,Wednesday,409758,83.6,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,118
+643,500700,Baby Dolls & Little Girls,Friday,28511,5.82,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,119
+531,500700,Baby Dolls & Little Girls,Tuesday,269976,55.08,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,120
+873,500700,Baby Dolls & Little Girls,Monday,1149746,234.57,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,121
+797,500700,Baby Dolls & Little Girls,Monday,716522,146.18,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,122
+768,500700,Baby Dolls & Little Girls,Thursday,670581,136.81,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,123
+537,500700,Baby Dolls & Little Girls,Tuesday,202566,41.33,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,124
+601,500700,Baby Dolls & Little Girls,Friday,249485,50.9,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,125
+1219,500700,Baby Dolls & Little Girls,Thursday,943421,192.48,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,126
+1473,500700,Baby Dolls & Little Girls,Sunday,46204,9.43,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,127
+708,500700,Baby Dolls & Little Girls,Monday,648382,132.28,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,128
+625,500700,Baby Dolls & Little Girls,Tuesday,229479,46.82,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,129
+606,500700,Baby Dolls & Little Girls,Thursday,413908,84.45,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,130
+729,500700,Baby Dolls & Little Girls,Friday,335989,68.55,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,131
+907,500700,Baby Dolls & Little Girls,Wednesday,3069752,626.3,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,132
+630,500700,Baby Dolls & Little Girls,Wednesday,68709,14.02,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,133
+920,500700,Baby Dolls & Little Girls,Saturday,242947,49.57,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,134
+1356,500700,Baby Dolls & Little Girls,Saturday,136538,27.86,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,135
+840,500700,Baby Dolls & Little Girls,Saturday,195530,39.89,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,136
+613,500700,Baby Dolls & Little Girls,Monday,2982705,608.55,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,137
+600,500700,Baby Dolls & Little Girls,Friday,141480,28.87,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,138
+405,500700,Baby Dolls & Little Girls,Thursday,113963,23.25,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,139
+2003,500700,Baby Dolls & Little Girls,Tuesday,339169,69.2,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,140
+474,9491,Bananas Mom,Wednesday,1467,15.64,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,141
+797,9491,Bananas Mom,Sunday,950,10.13,0,1,Micro (<10K),Likely Paid,Unboxing,Kid Toy,0,0,0,0,0,142
+662,9491,Bananas Mom,Saturday,2176,23.2,0,1,Micro (<10K),Likely Paid,Review/Product Shoutout,Kid Toy,0,0,0,0,1,143
+970,9491,Bananas Mom,Sunday,574,6.12,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,0,144
+635,9491,Bananas Mom,Monday,2073,22.1,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,145
+507,9491,Bananas Mom,Saturday,743,7.92,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,146
+720,9491,Bananas Mom,Wednesday,833,8.88,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,147
+474,9491,Bananas Mom,Friday,818,8.72,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,0,148
+0,0,Becky Goddard Hill,Monday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,149
+0,0,Becky Goddard Hill,Saturday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,150
+0,0,Becky Goddard Hill,Monday,0,0,0,1,Mid Scale (10K-100K),Likely Product Was Sent,Unboxing,Toy Reviewer,0,0,0,0,0,151
+0,0,Becky Goddard Hill,Saturday,0,0,0,1,Mid Scale (10K-100K),Likely Product Was Sent,Review/Product Shoutout,Toy Reviewer,0,0,0,0,0,152
+0,0,Becky Goddard Hill,Saturday,0,0,0,1,Mid Scale (10K-100K),Likely Product Was Sent,Storytelling,Storyteller,0,0,0,0,0,153
+496,1608,Bella & Hammy Dreams,Saturday,259,17.19,0,1,Micro (<10K),Likely Organic,Unboxing,Family Toy,0,0,0,0,1,154
+525,1608,Bella & Hammy Dreams,Sunday,154,10.25,0,1,Micro (<10K),Likely Organic,Unboxing,Family Toy,0,0,0,0,0,155
+332,1608,Bella & Hammy Dreams,Friday,133,8.85,0,1,Micro (<10K),Likely Organic,Unboxing,Family Toy,0,0,0,0,0,156
+346,1608,Bella & Hammy Dreams,Thursday,224,14.9,0,1,Micro (<10K),Likely Organic,Unboxing,Family Toy,0,0,0,0,0,157
+483,473034,C Kavala,Friday,1619,0.34,0,1,Large Scale (100K-500K),Likely Organic,Skit,Kid Toy,0,0,0,1,0,158
+1029,473034,C Kavala,Saturday,3175,0.68,0,1,Large Scale (100K-500K),Likely Product Was Sent,Unboxing,Kid Toy,0,0,0,1,0,159
+811,473034,C Kavala,Tuesday,6464,1.38,0,1,Large Scale (100K-500K),100% Product Was Sent,Unboxing,Kid Toy,1,0,0,1,0,160
+619,473034,C Kavala,Sunday,9307,1.98,0,1,Large Scale (100K-500K),Likely Product Was Sent,Review/Product Shoutout,Kid Toy,0,0,0,1,0,161
+286,473034,C Kavala,Friday,2508,0.53,0,1,Large Scale (100K-500K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,1,0,162
+207,473034,C Kavala,Sunday,7045,1.5,0,1,Large Scale (100K-500K),Likely Product Was Sent,Unboxing,Kid Toy,0,0,0,1,0,163
+903,473034,C Kavala,Monday,3334,0.71,0,1,Large Scale (100K-500K),Likely Product Was Sent,Unboxing,Kid Toy,0,0,0,1,0,164
+432,473034,C Kavala,Wednesday,1371,0.29,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Kid Toy,0,0,0,1,0,165
+482,473034,C Kavala,Wednesday,7900,1.68,0,1,Large Scale (100K-500K),Likely Product Was Sent,Unboxing,Kid Toy,1,0,0,1,0,166
+800,473034,C Kavala,Saturday,2548,0.54,0,1,Large Scale (100K-500K),Likely Organic,Skit,Kid Toy,0,0,0,1,0,167
+522,473034,C Kavala,Friday,2423,0.52,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Kid Toy,0,0,0,1,0,168
+249,473034,C Kavala,Wednesday,2554,0.54,0,1,Large Scale (100K-500K),Likely Product Was Sent,Review/Product Shoutout,Kid Toy,0,0,0,1,0,169
+1062,118172,Cam's Toy Box,Monday,51495,46.09,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,170
+691,118172,Cam's Toy Box,Tuesday,6413,5.74,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,171
+907,118172,Cam's Toy Box,Sunday,13265,11.87,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,172
+798,118172,Cam's Toy Box,Sunday,10689,9.57,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,173
+887,118172,Cam's Toy Box,Monday,2294,2.05,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,174
+796,118172,Cam's Toy Box,Tuesday,6275,5.62,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,175
+716,118172,Cam's Toy Box,Sunday,10087,9.03,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,176
+754,118172,Cam's Toy Box,Tuesday,1929,1.73,0,1,Large Scale (100K-500K),Likely Product Was Sent,Unboxing,Toy Reviewer,0,0,0,0,0,177
+675,118172,Cam's Toy Box,Saturday,7168,6.42,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,178
+851,118172,Cam's Toy Box,Tuesday,41344,37.01,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,179
+1208,118172,Cam's Toy Box,Monday,12339,11.05,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,180
+949,118172,Cam's Toy Box,Tuesday,6976,6.24,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,181
+935,118172,Cam's Toy Box,Wednesday,5140,4.6,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,182
+1372,118172,Cam's Toy Box,Thursday,77446,69.33,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,183
+817,118172,Cam's Toy Box,Monday,146238,130.92,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,184
+786,118172,Cam's Toy Box,Friday,13066,11.7,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,185
+846,118172,Cam's Toy Box,Tuesday,5148,4.61,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,186
+667,106299,Carlaylee HD,Wednesday,38532,39,0,1,Mid Scale (10K-100K),Product Sent Not From Brand,Review/Product Shoutout,Kid Toy,0,0,0,0,1,187
+635,106299,Carlaylee HD,Saturday,144069,145.82,0,1,Mid Scale (10K-100K),Likely Product Was Sent,Unboxing,Kid Toy,0,0,0,0,1,188
+610,106299,Carlaylee HD,Monday,91269,92.38,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Kid Toy,0,0,0,0,1,189
+476,106299,Carlaylee HD,Saturday,112353,113.72,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Kid Toy,0,0,0,0,1,190
+325,106299,Carlaylee HD,Saturday,136003,137.66,0,1,Mid Scale (10K-100K),Likely Product Was Sent,Unboxing,Kid Toy,0,0,0,0,1,191
+602,106299,Carlaylee HD,Tuesday,278102,281.5,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Kid Toy,0,0,0,0,1,192
+368,106299,Carlaylee HD,Wednesday,190496,192.83,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,193
+601,106299,Carlaylee HD,Monday,153517,155.4,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,194
+657,106299,Carlaylee HD,Wednesday,113444,114.83,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Kid Toy,0,0,0,0,1,195
+617,106299,Carlaylee HD,Friday,61254,62,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,196
+380,106299,Carlaylee HD,Monday,1001934,1014.25,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Kid Toy,0,0,0,0,1,197
+450,106299,Carlaylee HD,Thursday,37598,38.06,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,198
+302,106299,Carlaylee HD,Sunday,271841,275.19,0,1,Mid Scale (10K-100K),Likely Organic,Skit,Kid Toy,0,0,0,0,1,199
+323,106299,Carlaylee HD,Tuesday,46243,46.81,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Kid Toy,0,0,0,0,1,200
+655,106299,Carlaylee HD,Wednesday,82567,83.59,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,201
+387,106299,Carlaylee HD,Saturday,156149,158.07,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,202
+698,106299,Carlaylee HD,Sunday,374135,378.75,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Kid Toy,0,0,0,0,1,203
+317,106299,Carlaylee HD,Tuesday,34483,34.91,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Kid Toy,0,0,0,0,1,204
+181,106299,Carlaylee HD,Friday,27730,28.07,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,205
+603,106299,Carlaylee HD,Friday,52896,53.55,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Kid Toy,0,0,0,0,1,206
+205,106299,Carlaylee HD,Sunday,20183,20.43,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,1,207
+602,106299,Carlaylee HD,Wednesday,33634,34.05,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,208
+698,1118,Cathleen's Toy Reviews,Saturday,1422,144.51,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,1,0,1,209
+755,1118,Cathleen's Toy Reviews,Wednesday,411,41.77,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,210
+93,1118,Cathleen's Toy Reviews,Tuesday,355,36.11,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,1,0,1,211
+624,730420,Chad Alan,Sunday,35973,4.94,0,1,Mega (500K+),Likely Product Was Sent,Unboxing,Toy Reviewer,0,0,0,0,0,212
+650,730420,Chad Alan,Wednesday,13846,1.9,0,1,Mega (500K+),Likely Product Was Sent,Unboxing,Toy Reviewer,0,0,0,0,0,213
+711,730420,Chad Alan,Friday,19008,2.61,0,1,Mega (500K+),Likely Product Was Sent,Unboxing,Toy Reviewer,0,0,0,0,0,214
+1210,730420,Chad Alan,Sunday,10945,1.5,0,1,Mega (500K+),Likely Product Was Sent,Unboxing,Toy Reviewer,0,0,0,0,0,215
+1018,730420,Chad Alan,Tuesday,32998,4.54,0,1,Mega (500K+),Likely Organic,Skit,Toy Reviewer,0,0,0,0,0,216
+566,730420,Chad Alan,Thursday,14111,1.94,0,1,Mega (500K+),Likely Product Was Sent,Unboxing,Toy Reviewer,0,0,0,0,0,217
+0,0,Super S,Friday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,218
+732,160175,Chelsea TV,Saturday,2024,1.34,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Family Toy,0,0,0,0,0,219
+977,4168,Chloe's Playroom,Sunday,231,5.69,0,1,Micro (<10K),Likely Organic,Unboxing,Family Toy,0,0,0,0,0,220
+1297,3057190,Come Play With Me,Saturday,6787299,228.71,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,221
+662,7137242,Cookie Swirl,Saturday,699178,9.99,0,1,Mega (500K+),Likely Product Was Sent,Challenge,Storyteller,0,0,0,0,0,222
+811,7137242,Cookie Swirl,Friday,787938,11.26,0,1,Mega (500K+),Likely Product Was Sent,Unboxing,Storyteller,0,0,0,0,0,223
+536,7137243,Cookie Swirl,Wednesday,1211518,17.31,0,1,Mega (500K+),Likely Paid,Storytelling,Storyteller,0,0,0,0,1,224
+316,7137243,Cookie Swirl,Saturday,827055,11.82,0,1,Mega (500K+),Likely Paid,Storytelling,Storyteller,0,0,0,0,0,225
+489,7137243,Cookie Swirl,Friday,1674498,23.92,0,1,Mega (500K+),Likely Paid,Storytelling,Storyteller,0,0,0,0,1,226
+555,7137243,Cookie Swirl,Wednesday,331154,4.73,0,1,Mega (500K+),Likely Paid,Storytelling,Storyteller,0,0,0,0,0,227
+639,7137242,Cookie Swirl,Saturday,2404302,34.35,0,1,Mega (500K+),Likely Product Was Sent,Unboxing,Storyteller,0,0,0,0,1,228
+553,7137242,Cookie Swirl,Saturday,809033,11.56,0,1,Mega (500K+),Likely Paid,Storytelling,Storyteller,0,0,0,0,0,229
+499,7137242,Cookie Swirl,Tuesday,847648,12.11,0,1,Mega (500K+),Likely Paid,Storytelling,Storyteller,0,0,0,0,0,230
+280,7137242,Cookie Swirl,Saturday,2950079,42.15,0,1,Mega (500K+),Likely Paid,Storytelling,Storyteller,0,0,0,0,1,231
+663,7137242,Cookie Swirl,Thursday,1965285,28.08,0,1,Mega (500K+),Likely Paid,Storytelling,Storyteller,0,0,0,0,1,232
+602,7137242,Cookie Swirl,Saturday,5299082,75.71,0,1,Mega (500K+),Likely Product Was Sent,Unboxing,Storyteller,0,0,0,0,1,233
+753,7137241,Cookie Swirl,Wednesday,784187,11.2,0,1,Mega (500K+),Likely Paid,Storytelling,Storyteller,0,0,0,0,0,234
+580,7137241,Cookie Swirl,Tuesday,448184,6.4,0,1,Mega (500K+),Likely Organic,Challenge,Storyteller,0,0,0,0,0,235
+298,7137241,Cookie Swirl,Monday,335310,4.79,0,1,Mega (500K+),Likely Paid,Challenge,Storyteller,0,0,0,0,0,236
+557,7137242,Cookie Swirl,Thursday,629438,8.99,0,1,Mega (500K+),Likely Paid,Storytelling,Storyteller,0,0,0,0,0,237
+868,7137242,Cookie Swirl,Thursday,5397735,77.12,0,1,Mega (500K+),Likely Product Was Sent,Unboxing,Storyteller,0,0,0,0,1,238
+779,7137244,Cookie Swirl,Sunday,3253835,46.49,0,1,Mega (500K+),Likely Product Was Sent,Unboxing,Storyteller,0,0,0,0,1,239
+538,7137244,Cookie Swirl,Saturday,7712748,110.19,0,1,Mega (500K+),Likely Paid,Storytelling,Storyteller,0,0,0,0,1,240
+630,7137244,Cookie Swirl,Friday,8833937,126.21,0,1,Mega (500K+),Likely Paid,Storytelling,Storyteller,0,0,0,0,1,241
+613,7137244,Cookie Swirl,Tuesday,1391134,19.88,0,1,Mega (500K+),Likely Product Was Sent,Unboxing,Storyteller,0,0,0,0,1,242
+503,7137244,Cookie Swirl,Saturday,1414565,20.21,0,1,Mega (500K+),Likely Product Was Sent,Unboxing,Storyteller,0,0,0,0,1,243
+0,0,Super S,Saturday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,244
+0,0,Super S,Tuesday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,245
+0,0,Super S,Saturday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,246
+0,0,Super S,Sunday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,247
+0,0,Super S,Friday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,248
+0,0,Mellisa Tyler Swigart,Tuesday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Mommy Blogger,0,0,0,0,0,249
+0,0,Natasha Mairs,Wednesday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Mommy Blogger,0,0,0,0,0,250
+0,0,Super S,Thursday,0,0,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,0,251
+0,0,Super S,Saturday,0,0,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,1,0,0,252
+0,0,Mellisa Tyler Swigart,Saturday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Mommy Blogger,0,0,0,0,0,253
+0,0,Sabina Green,Saturday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Mommy Blogger,0,0,0,0,0,254
+0,0,Super S,Wednesday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,255
+0,0,Super S,Friday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,256
+0,0,Super S,Saturday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,257
+599,7334,Cr8zy Kids TV,Sunday,3733,53.98,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,258
+370,7334,Cr8zy Kids TV,Sunday,4048,58.54,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,259
+798,460650,Cupcake Kids Club,Thursday,55185,12.47,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,260
+1310,460650,Cupcake Kids Club,Saturday,663687,149.97,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,261
+1471,460650,Cupcake Kids Club,Tuesday,184051,41.59,0,1,Large Scale (100K-500K),Likely Organic,DIY,Storyteller,0,0,0,0,1,262
+1186,460650,Cupcake Kids Club,Friday,691751,156.32,0,1,Large Scale (100K-500K),Likely Organic,DIY,Storyteller,0,0,0,0,1,263
+399,460650,Cupcake Kids Club,Wednesday,35215,7.96,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,264
+930,460650,Cupcake Kids Club,Tuesday,175768,39.72,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,265
+817,460650,Cupcake Kids Club,Sunday,93341,21.09,0,1,Large Scale (100K-500K),Likely Product Was Sent,Unboxing,Storyteller,0,0,0,0,1,266
+2230,460650,Cupcake Kids Club,Saturday,673404,152.18,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,267
+741,460650,Cupcake Kids Club,Tuesday,169588,38.33,0,1,Large Scale (100K-500K),Likely Organic,DIY,Storyteller,0,0,0,0,1,268
+1578,460650,Cupcake Kids Club,Monday,831501,187.91,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,269
+603,460650,Cupcake Kids Club,Saturday,272925,61.68,0,1,Large Scale (100K-500K),Likely Organic,DIY,Storyteller,0,0,0,0,1,270
+1121,460650,Cupcake Kids Club,Tuesday,1882064,425.33,0,1,Large Scale (100K-500K),Likely Organic,DIY,Storyteller,0,0,0,0,1,271
+539,460650,Cupcake Kids Club,Tuesday,844541,190.86,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,272
+693,460650,Cupcake Kids Club,Tuesday,100128,22.63,0,1,Large Scale (100K-500K),Likely Organic,DIY,Storyteller,0,0,0,0,1,273
+1521,460650,Cupcake Kids Club,Saturday,800795,180.98,0,1,Large Scale (100K-500K),Likely Organic,DIY,Storyteller,0,0,0,0,1,274
+802,460650,Cupcake Kids Club,Wednesday,445061,100.59,0,1,Large Scale (100K-500K),Likely Organic,DIY,Storyteller,0,0,0,0,1,275
+1826,460650,Cupcake Kids Club,Monday,634135,143.32,0,1,Large Scale (100K-500K),Likely Product Was Sent,Unboxing,Storyteller,0,0,0,0,1,276
+930,460650,Cupcake Kids Club,Friday,188272,42.55,0,1,Large Scale (100K-500K),Likely Organic,DIY,Storyteller,0,0,0,0,1,277
+2075,460650,Cupcake Kids Club,Wednesday,1475271,333.42,0,1,Large Scale (100K-500K),Likely Product Was Sent,Unboxing,Storyteller,0,0,0,0,1,278
+716,460650,Cupcake Kids Club,Monday,371816,84.03,0,1,Large Scale (100K-500K),Likely Organic,DIY,Storyteller,0,0,0,0,1,279
+2149,460650,Cupcake Kids Club,Wednesday,744743,168.32,0,1,Large Scale (100K-500K),Likely Product Was Sent,Review/Product Shoutout,Storyteller,0,0,0,0,1,280
+869,460650,Cupcake Kids Club,Saturday,1671349,377.75,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,281
+981,460650,Cupcake Kids Club,Friday,274615,62.07,0,1,Large Scale (100K-500K),Likely Product Was Sent,Skit,Storyteller,0,0,0,0,1,282
+826,460650,Cupcake Kids Club,Friday,162944,36.83,0,1,Large Scale (100K-500K),Likely Organic,DIY,Storyteller,0,0,0,0,1,283
+3019,460650,Cupcake Kids Club,Monday,1728688,390.71,0,1,Large Scale (100K-500K),Likely Product Was Sent,Unboxing,Storyteller,0,0,0,0,1,284
+1028,460650,Cupcake Kids Club,Tuesday,101973,23.05,0,1,Large Scale (100K-500K),Likely Product Was Sent,Skit,Storyteller,0,0,0,0,1,285
+762,355884,CupcakeSurpriseToys,Tuesday,78712,23.3,0,1,Large Scale (100K-500K),Likely Organic,Challenge,Family Toy,0,0,0,0,1,286
+806,355884,CupcakeSurpriseToys,Saturday,150680,44.6,0,1,Large Scale (100K-500K),Likely Organic,Challenge,Family Toy,0,0,1,0,1,287
+630,355884,CupcakeSurpriseToys,Saturday,446163,132.07,0,1,Large Scale (100K-500K),Likely Organic,Challenge,Family Toy,0,0,0,0,1,288
+743,355884,CupcakeSurpriseToys,Saturday,428416,126.82,0,1,Large Scale (100K-500K),Likely Organic,Challenge,Family Toy,0,0,0,0,1,289
+986,355884,CupcakeSurpriseToys,Friday,330743,97.91,0,1,Large Scale (100K-500K),Likely Organic,Challenge,Family Toy,0,0,1,0,1,290
+603,355884,CupcakeSurpriseToys,Saturday,275899,81.67,0,1,Large Scale (100K-500K),Likely Organic,Retailer Visit,Family Toy,0,0,0,0,1,291
+1052,355884,CupcakeSurpriseToys,Saturday,599692,177.53,0,1,Large Scale (100K-500K),Likely Organic,Challenge,Family Toy,0,0,1,0,1,292
+918,355884,CupcakeSurpriseToys,Saturday,543262,160.82,0,1,Large Scale (100K-500K),Likely Organic,Challenge,Family Toy,0,0,1,0,1,293
+474,154065,Disney Fun,Friday,959,0.62,0,1,Large Scale (100K-500K),Likely Product Was Sent,Unboxing,Kid Toy,0,0,0,0,0,294
+606,0,Doll Gems,Saturday,982891,96.61,0,1,Large Scale (100K-500K),Likely Organic,DIY,Storyteller,0,0,0,0,1,295
+612,0,Doll Gems,Saturday,88301,95.63,0,1,Large Scale (100K-500K),Likely Organic,DIY,Storyteller,0,0,0,0,1,296
+249,383529,DollHouse DIY,Monday,1083665,285.26,0,1,Large Scale (100K-500K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,1,297
+189,383529,DollHouse DIY,Thursday,234493,61.73,0,1,Large Scale (100K-500K),Likely Organic,DIY,Toy Reviewer,0,0,0,0,1,298
+244,383529,DollHouse DIY,Monday,153820,40.49,0,1,Large Scale (100K-500K),Likely Organic,DIY,Toy Reviewer,0,0,0,0,1,299
+303,383529,DollHouse DIY,Friday,74097,19.51,0,1,Large Scale (100K-500K),Likely Organic,DIY,Toy Reviewer,0,0,0,0,1,300
+601,1167976,Ellie Sparkles,Wednesday,106750,9.29,0,1,Mega (500K+),Likely Organic,Unboxing,Storyteller,0,0,0,0,0,301
+730,1167976,Ellie Sparkles,Saturday,51181,4.46,0,1,Mega (500K+),Likely Organic,Skit,Storyteller,0,0,0,0,0,302
+698,1167976,Ellie Sparkles,Monday,42930,3.74,0,1,Mega (500K+),Likely Organic,DIY,Storyteller,0,0,0,0,0,303
+774,1167976,Ellie Sparkles,Monday,77559,6.75,0,1,Mega (500K+),Likely Organic,Hacks/Insider Content,Storyteller,0,0,0,0,0,304
+604,1167976,Ellie Sparkles,Saturday,78857,6.87,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,305
+606,1167976,Ellie Sparkles,Sunday,80103,6.97,0,1,Mega (500K+),Likely Organic,Skit,Storyteller,0,0,0,0,0,306
+630,1167976,Ellie Sparkles,Monday,34602,3.01,0,1,Mega (500K+),Likely Organic,DIY,Storyteller,0,0,0,0,0,307
+1783,1167976,Ellie Sparkles,Friday,60042,5.23,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,308
+798,1167976,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,309
+798,1167976,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,310
+798,1167976,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,311
+798,1167976,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Retailer Event,Storyteller,0,0,0,0,0,312
+798,1167976,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Hacks/Insider Content,Storyteller,0,0,0,0,0,313
+798,1167976,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Prodct Was Sent,Unboxing,Storyteller,0,0,0,0,0,314
+798,1167976,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,315
+798,1167976,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Hacks/Insider Content,Storyteller,0,0,0,0,0,316
+798,1167976,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Challenge,Storyteller,0,0,0,0,0,317
+798,1167976,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,318
+798,1167976,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,319
+798,1167976,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,320
+798,1167976,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,321
+798,1167976,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Hacks/Insider Content,Storyteller,0,0,0,0,0,322
+798,1167976,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,323
+798,1167976,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Hacks/Insider Content,Storyteller,0,0,0,0,0,324
+798,1167975,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Unboxing,Storyteller,0,0,0,0,0,325
+798,1167975,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Challenge,Storyteller,0,0,0,0,0,326
+798,1167975,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Challenge,Storyteller,0,0,0,0,0,327
+798,1167975,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,328
+798,1167975,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,329
+798,1167975,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,330
+798,1167976,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,331
+798,1167976,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,332
+798,1167976,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,DIY,Storyteller,0,0,0,0,0,333
+798,1167976,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Challenge,Storyteller,0,0,0,0,0,334
+798,1167976,Ellie Sparkles,Saturday,55950,4.87,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,335
+1394,801787,Emily Evelyn (Two Sisters Toy Style),Saturday,345514,44.45,0,1,Mega (500K+),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,336
+1075,801787,Emily Evelyn (Two Sisters Toy Style),Friday,127287,16.38,0,1,Mega (500K+),Likely Organic,Challenge,Kid Toy,0,0,1,0,1,337
+968,801787,Emily Evelyn (Two Sisters Toy Style),Monday,113570,14.61,0,1,Mega (500K+),Likely Prodct Was Sent,Unboxing,Kid Toy,0,0,0,0,0,338
+1027,801787,Emily Evelyn (Two Sisters Toy Style),Thursday,342114,44.02,0,1,Mega (500K+),Likely Prodct Was Sent,Unboxing,Kid Toy,0,0,0,0,1,339
+576,801787,Emily Evelyn (Two Sisters Toy Style),Tuesday,324462,41.75,0,1,Mega (500K+),Likely Organic,Challenge,Kid Toy,0,0,1,0,1,340
+1215,801787,Emily Evelyn (Two Sisters Toy Style),Friday,1063321,136.83,0,1,Mega (500K+),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,341
+872,801788,Emily Evelyn (Two Sisters Toy Style),Thursday,1346082,173.22,0,1,Mega (500K+),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,342
+887,801788,Emily Evelyn (Two Sisters Toy Style),Tuesday,1700874,218.88,0,1,Mega (500K+),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,343
+0,0,Emily Evelyn (Two Sisters Toy Style),Thursday,0,0,0,1,Mega (500K+),Likely Organic,Challenge,Kid Toy,0,0,0,0,0,344
+0,0,Emily Evelyn (Two Sisters Toy Style),Tuesday,0,0,0,1,Mega (500K+),Likely Organic,Challenge,Kid Toy,0,0,0,0,0,345
+0,0,Emily Evelyn (Two Sisters Toy Style),Wednesday,0,0,0,1,Mega (500K+),Likely Organic,Challenge,Kid Toy,0,0,0,0,0,346
+0,0,Emily Evelyn (Two Sisters Toy Style),Friday,0,0,0,1,Mega (500K+),Likely Organic,Challenge,Kid Toy,0,0,0,0,0,347
+0,0,Emily Evelyn (Two Sisters Toy Style),Saturday,0,0,0,1,Mega (500K+),Likely Organic,Challenge,Kid Toy,0,0,0,0,0,348
+0,0,Emily Evelyn (Two Sisters Toy Style),Thursday,0,0,0,1,Mega (500K+),Likely Organic,Challenge,Kid Toy,0,0,0,0,0,349
+0,0,Super S,Friday,0,0,0,2,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,350
+0,0,Emily Evelyn (Two Sisters Toy Style),Tuesday,0,0,0,1,Micro (<10K),Likely Organic,Challenge,Kid Toy,0,0,0,0,0,351
+0,0,Emily Evelyn (Two Sisters Toy Style),Monday,0,0,0,1,Micro (<10K),Likely Organic,Challenge,Kid Toy,0,0,0,0,0,352
+0,0,Emily Evelyn (Two Sisters Toy Style),Monday,0,0,0,1,Mega (500K+),Likely Organic,Challenge,Kid Toy,0,0,0,0,0,353
+0,0,Super S,Monday,0,0,0,2,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,354
+0,0,Cookie Swirl,Friday,0,0,0,2,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,355
+0,0,Emily Evelyn (Two Sisters Toy Style),Saturday,0,0,0,2,Mega (500K+),Likely Organic,Challenge,Kid Toy,0,0,0,0,0,356
+503,28384,EVA'S TOY PLANET,Thursday,45317,165.25,0,2,Mid Scale (10K-100K),Likely Organic,Challenge,Family Toy,0,0,0,0,1,357
+247,28384,EVA'S TOY PLANET,Wednesday,8076,29.45,0,2,Mid Scale (10K-100K),Likely Prodct Was Sent,Unboxing,Kid Toy,0,0,0,0,1,358
+199,28384,EVA'S TOY PLANET,Wednesday,1439,5.25,0,2,Mid Scale (10K-100K),Likely Organic,DIY,Kid Toy,0,0,0,0,0,359
+161,28384,EVA'S TOY PLANET,Thursday,1537,5.6,0,2,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,1,0,0,360
+315,28384,EVA'S TOY PLANET,Saturday,2033,7.41,0,1,Mid Scale (10K-100K),Likely Prodct Was Sent,Unboxing,Kid Toy,0,0,0,0,0,361
+438,28384,EVA'S TOY PLANET,Tuesday,1476,5.38,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,1,0,0,362
+275,28384,EVA'S TOY PLANET,Sunday,2328,8.49,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,363
+556,28384,EVA'S TOY PLANET,Tuesday,1188,4.33,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,0,364
+653,28384,EVA'S TOY PLANET,Sunday,96318,351.24,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,365
+385,28384,EVA'S TOY PLANET,Tuesday,2657,9.69,0,2,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,366
+539,28384,EVA'S TOY PLANET,Sunday,2657,9.69,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,0,367
+170,28384,EVA'S TOY PLANET,Tuesday,2420,8.83,0,2,Mid Scale (10K-100K),Likely Prodct Was Sent,Review/Product Shoutout,Kid Toy,0,0,0,0,0,368
+198,28384,EVA'S TOY PLANET,Sunday,2657,9.69,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,0,369
+546,28384,EVA'S TOY PLANET,Sunday,3482,12.7,0,2,Mid Scale (10K-100K),Likely Prodct Was Sent,Review/Product Shoutout,Kid Toy,0,0,0,0,0,370
+835,28384,EVA'S TOY PLANET,Wednesday,68291,249.07,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Family Toy,0,0,0,0,1,371
+530,28384,EVA'S TOY PLANET,Friday,11506,41.97,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Family Toy,0,0,0,0,1,372
+223,28384,EVA'S TOY PLANET,Friday,10058,36.69,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,1,373
+222,28384,EVA'S TOY PLANET,Tuesday,4165,15.19,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,374
+579,28384,EVA'S TOY PLANET,Thursday,23405,85.37,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,375
+114,28384,EVA'S TOY PLANET,Friday,70408,256.8,0,2,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,376
+807,28384,EVA'S TOY PLANET,Wednesday,17597,64.18,0,2,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,377
+947,28384,EVA'S TOY PLANET,Saturday,2140,7.81,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Kid Toy,0,0,0,0,0,378
+901,1692733,Fizzy Toy Show,Tuesday,32704,1.96,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,379
+876,1692733,Fizzy Toy Show,Wednesday,367907,22.09,0,2,Large Scale (100K-500K),Likely Organic,Unboxing,Storyteller,0,0,0,0,1,380
+859,1692733,Fizzy Toy Show,Monday,38807,2.33,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Storyteller,0,0,0,0,0,381
+867,1692733,Fizzy Toy Show,Monday,501035,30.08,0,1,Large Scale (100K-500K),Likely Organic,Hacks/Insider Content,Storyteller,0,0,0,0,1,382
+1027,1692733,Fizzy Toy Show,Sunday,381909,22.93,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,383
+883,1692733,Fizzy Toy Show,Wednesday,46834,2.81,0,1,Large Scale (100K-500K),Likely Organic,Hacks/Insider Content,Storyteller,0,0,0,0,0,384
+0,0,Fizzy Toy Show,Wednesday,0,0,0,1,Large Scale (100K-500K),Likely Organic,Hacks/Insider Content,Storyteller,0,0,0,0,0,385
+0,0,Fizzy Toy Show,Sunday,0,0,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Storyteller,0,0,0,0,0,386
+0,0,Fizzy Toy Show,Monday,0,0,0,1,Large Scale (100K-500K),Likely Organic,Hacks/Insider Content,Storyteller,0,0,0,0,0,387
+0,0,Fizzy Toy Show,Wednesday,0,0,0,2,Large Scale (100K-500K),Likely Organic,Unboxing,Storyteller,0,0,0,0,0,388
+0,0,Fizzy Toy Show,Wednesday,0,0,0,1,Large Scale (100K-500K),Likely Organic,Hacks/Insider Content,Storyteller,0,0,0,0,0,389
+0,0,Fizzy Toy Show,Sunday,0,0,0,1,Large Scale (100K-500K),Likely Organic,Challenge,Storyteller,0,0,0,0,0,390
+0,0,Fizzy Toy Show,Thursday,0,0,0,2,Large Scale (100K-500K),Likely Organic,Unboxing,Storyteller,0,0,0,0,0,391
+634,59977,Fun and Crazy Kids,Wednesday,2322,3.95,0,1,Large Scale (100K-500K),Likely Organic,Challenge,Kid Toy,0,0,0,0,0,392
+807,59977,Fun and Crazy Kids,Tuesday,87857,149.41,0,2,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Kid Toy,0,0,0,0,1,393
+1093,59977,Fun and Crazy Kids,Saturday,872360,1483.58,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Kid Toy,0,0,0,0,1,394
+1046,59977,Fun and Crazy Kids,Monday,15671,26.65,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,395
+2139,59976,Fun and Crazy Kids,Monday,22449,38.18,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,396
+951,922114,Fun Family Three Ava Isla and Olivia,Friday,90304,9.82,0,1,Mega (500K+),Likely Organic,Challenge,Family Toy,0,0,0,0,0,397
+1000,922114,Fun Family Three Ava Isla and Olivia,Thursday,31339,3.41,0,1,Mega (500K+),Likely Organic,Challenge,Family Toy,0,0,0,0,0,398
+458,357113,Fun Kid Videos,Tuesday,3660,1.07,0,1,Large Scale (100K-500K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,0,399
+633,154448,FunTV,Tuesday,22848,16.08,0,1,Large Scale (100K-500K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,400
+621,154448,FunTV,Saturday,98651,69.43,0,2,Large Scale (100K-500K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,401
+603,154448,FunTV,Saturday,47578,33.49,0,1,Large Scale (100K-500K),Likely Organic,Retailer Visit,Kid Toy,0,0,0,0,1,402
+604,154448,FunTV,Wednesday,458960,323.05,0,1,Large Scale (100K-500K),Likely Organic,Skit,Kid Toy,0,0,0,0,1,403
+1336,4231293,Genie,Tuesday,80808,1.96,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,404
+1231,4231293,Genie,Tuesday,42164,1.02,0,2,Mega (500K+),Likely Prodct Was Sent,Unboxing,Toy Reviewer,0,0,0,0,0,405
+1218,4231293,Genie,Sunday,57900,1.4,0,2,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,406
+1638,4231293,Genie,Sunday,153151,3.71,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,407
+1318,4231293,Genie,Friday,92389,2.24,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,408
+1587,4231293,Genie,Tuesday,148930,3.61,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,409
+1519,4231293,Genie,Saturday,64752,1.57,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,410
+1964,4231292,Genie,Saturday,100390,2.43,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,411
+1838,4231292,Genie,Saturday,1098838,26.61,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,412
+1091,4231292,Genie,Wednesday,59023,1.43,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,413
+1641,4231292,Genie,Sunday,200941,4.87,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,414
+1109,4231293,Genie,Wednesday,51826,1.25,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,415
+1112,4231293,Genie,Sunday,223201,5.4,0,2,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,416
+837,4231293,Genie,Saturday,168098,4.07,0,2,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,417
+1381,4231294,Genie,Friday,260614,6.31,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,418
+1160,4231294,Genie,Monday,114272,2.77,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,419
+1980,4231294,Genie,Saturday,1653500,40.04,0,1,Mega (500K+),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,420
+1515,4231294,Genie,Thursday,58256,1.41,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,421
+1166,4231294,Genie,Thursday,293559,7.11,0,2,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,422
+1405,4231294,Genie,Tuesday,153817,3.72,0,1,Mega (500K+),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,0,423
+1403,4231296,Genie,Saturday,89140,2.16,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,424
+1567,4231296,Genie,Thursday,736335,17.83,0,2,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,425
+1190,4231296,Genie,Wednesday,176917,4.28,0,1,Mega (500K+),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,0,426
+1497,4231296,Genie,Sunday,298677,7.23,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,427
+1046,4231296,Genie,Thursday,179339,4.34,0,1,Mega (500K+),Likely Organic,Challenge,Toy Reviewer,0,0,0,0,0,428
+954,4231296,Genie,Wednesday,96768,2.34,0,1,Mega (500K+),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,0,429
+1530,4231296,Genie,Wednesday,171526,4.15,0,1,Mega (500K+),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,0,430
+1924,4231296,Genie,Monday,105843,2.56,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,431
+1353,4231296,Genie,Friday,539906,13.07,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,432
+1513,4231296,Genie,Saturday,73963,1.79,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,433
+1470,4231296,Genie,Saturday,92494,2.24,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,434
+615,4231296,Genie,Wednesday,91339,2.21,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,435
+933,4231296,Genie,Wednesday,783873,18.98,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,1,436
+1313,4231296,Genie,Saturday,419496,10.16,0,2,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,437
+1689,4231297,Genie,Friday,287045,6.95,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,438
+1351,4231297,Genie,Wednesday,53334,1.29,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,439
+1118,4231297,Genie,Tuesday,321534,7.79,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,440
+0,0,Genie,Wednesday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,441
+0,0,Genie,Wednesday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,442
+0,0,Genie,Sunday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,443
+0,0,Genie,Sunday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,444
+0,0,Genie,Wednesday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,445
+0,0,Genie,Thursday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,446
+0,0,Genie,Tuesday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,447
+0,0,Genie,Tuesday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,448
+0,0,Genie,Tuesday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,449
+0,0,Genie,Tuesday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,450
+0,0,Genie,Wednesday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,451
+0,0,Genie,Thursday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,452
+0,0,Genie,Saturday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,453
+0,0,Genie,Monday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,454
+0,0,Genie,Monday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,455
+0,0,Genie,Wednesday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,456
+0,0,Genie,Friday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,457
+0,0,Genie,Sunday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,458
+0,0,Genie,Wednesday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,459
+0,0,Genie,Monday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,460
+0,0,Genie,Tuesday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,461
+0,0,Genie,Thursday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,462
+0,0,Genie,Sunday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,463
+0,0,Genie,Sunday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,464
+0,0,Genie,Sunday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,465
+0,0,Genie,Wednesday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,466
+0,0,Genie,Friday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,467
+0,0,Genie,Tuesday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,468
+0,0,Genie,Tuesday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,469
+0,0,Genie,Wednesday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,470
+0,0,Genie,Saturday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,471
+0,0,Genie,Monday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,472
+0,0,Genie,Tuesday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,473
+0,0,Genie,Wednesday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,474
+0,0,Genie,Friday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,475
+0,0,Genie,Monday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,476
+0,0,Genie,Monday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,477
+0,0,Genie,Tuesday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,478
+0,0,Genie,Sunday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,479
+0,0,Genie,Tuesday,0,0,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,480
+1009,13394,GGz Toy Squad,Sunday,57380,489.55,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,481
+2055,13394,GGz Toy Squad,Sunday,291675,2488.69,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,482
+1386,13394,GGz Toy Squad,Monday,4222,36.03,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,483
+1712,13394,GGz Toy Squad,Saturday,243226,2075.48,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,484
+1186,13394,GGz Toy Squad,Monday,121299,1035.06,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,485
+672,13394,GGz Toy Squad,Thursday,5108,43.59,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,486
+1799,13394,GGz Toy Squad,Sunday,81121,692.22,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,1,0,1,487
+1025,13394,GGz Toy Squad,Saturday,11943,101.91,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,1,0,1,488
+311,13394,GGz Toy Squad,Saturday,4585,39.12,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,489
+1134,13394,GGz Toy Squad,Wednesday,65635,560.07,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,490
+2582,749046,Gracie Hunter,Sunday,8391,1.12,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,491
+1595,749046,Gracie Hunter,Friday,17759,2.37,0,1,Mega (500K+),100% Paid,Unboxing,Toy Reviewer,0,0,0,0,0,492
+971,749046,Gracie Hunter,Monday,31904,4.26,0,1,Mega (500K+),100% Paid,Retailer Visit,Toy Reviewer,0,0,0,0,0,493
+1173,749046,Gracie Hunter,Wednesday,29525,3.94,0,2,Mega (500K+),Likely Prodct Was Sent,Unboxing,Toy Reviewer,0,0,0,0,0,494
+1204,40887,GreatBigToyBox,Saturday,17025,42.43,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,495
+1273,40887,GreatBigToyBox,Friday,72846,181.55,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,496
+285,1177850,HiHo Kids,Thursday,107350,9.53,0,1,Mega (500K+),Likely Prodct Was Sent,Unboxing,Kid Toy,0,0,0,0,0,497
+395,1177850,HiHo Kids,Friday,100831,8.95,0,1,Mega (500K+),Likely Prodct Was Sent,Unboxing,Kid Toy,0,0,0,0,0,498
+1361,3289,IngoldsRealityTV,Sunday,1586,52,0,2,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,499
+817,3289,IngoldsRealityTV,Saturday,661,21.67,0,1,Micro (<10K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,500
+1045,3289,IngoldsRealityTV,Tuesday,344,11.28,0,2,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,501
+67,3289,IngoldsRealityTV,Thursday,940,30.82,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,502
+499,3289,IngoldsRealityTV,Monday,5519,180.95,0,1,Micro (<10K),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,1,503
+1184,3289,IngoldsRealityTV,Saturday,1234,40.46,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,504
+61,3289,IngoldsRealityTV,Wednesday,92299,3026.2,0,2,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,505
+986,3289,IngoldsRealityTV,Friday,698,22.89,0,2,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,506
+616,3289,IngoldsRealityTV,Tuesday,19990,655.41,0,1,Micro (<10K),Likely Organic,DIY,Toy Reviewer,0,0,0,0,1,507
+794,3289,IngoldsRealityTV,Wednesday,863,28.3,0,1,Micro (<10K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,508
+149,3289,IngoldsRealityTV,Wednesday,518,16.99,0,1,Micro (<10K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,509
+447,3289,IngoldsRealityTV,Saturday,1112,36.47,0,1,Micro (<10K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,510
+251,3289,IngoldsRealityTV,Tuesday,110922,3637.98,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,511
+906,3289,IngoldsRealityTV,Saturday,525,17.22,0,1,Micro (<10K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,512
+483,1945,Isabel Friends and Toys,Thursday,368,22,0,1,Micro (<10K),Likely Organic,Retailer Visit,Kid Toy,0,0,0,0,1,513
+186,1945,Isabel Friends and Toys,Friday,107,6.4,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,0,514
+782,1945,Isabel Friends and Toys,Tuesday,148,8.85,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,0,515
+356,1945,Isabel Friends and Toys,Friday,107,6.4,0,1,Micro (<10K),Likely Organic,Retailer Visit,Kid Toy,0,0,0,0,0,516
+1103,1945,Isabel Friends and Toys,Sunday,289,17.27,0,2,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,517
+304,1945,Isabel Friends and Toys,Saturday,126,7.53,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,518
+1054,1945,Isabel Friends and Toys,Sunday,83,4.96,0,1,Micro (<10K),Likely Organic,Challenge,Kid Toy,0,0,0,0,0,519
+542,1945,Isabel Friends and Toys,Tuesday,214,12.79,0,1,Micro (<10K),Likely Organic,Retailer Visit,Kid Toy,0,0,0,0,0,520
+439,1945,Isabel Friends and Toys,Thursday,102,6.1,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,521
+875,1945,Isabel Friends and Toys,Friday,113,6.75,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,522
+1500,1945,Isabel Friends and Toys,Saturday,98,5.86,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,523
+1330,1945,Isabel Friends and Toys,Saturday,127,7.59,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,524
+432,1945,Isabel Friends and Toys,Tuesday,315,18.83,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,525
+434,1945,Isabel Friends and Toys,Friday,348,20.81,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,526
+877,1945,Isabel Friends and Toys,Wednesday,246,14.71,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,527
+562,1945,Isabel Friends and Toys,Tuesday,191,11.42,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,528
+978,1945,Isabel Friends and Toys,Thursday,149,8.91,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,529
+646,1945,Isabel Friends and Toys,Tuesday,200,11.96,0,1,Micro (<10K),Likely Organic,Hacks/Insider Content,Kid Toy,0,0,0,0,0,530
+1263,0,Itsplaytime612,Saturday,4082,408200,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,531
+435,0,Itsplaytime612,Saturday,4011,401100,0,1,Mega (500K+),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,532
+0,0,Cookie Swirl,Friday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Storyteller,0,0,0,0,0,533
+0,0,Paul and Shannon,Saturday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Storyteller,0,0,0,0,0,534
+783,1299,Jenny Kearney,Tuesday,46,3.56,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,535
+0,0,Jenny Kearney,Wednesday,0,0,0,1,Micro (<10K),Likely Paid,Review/Product Shoutout,Mommy Blogger,0,0,0,0,0,536
+0,0,Jenny Kearney,Wednesday,0,0,0,1,Micro (<10K),Likely Paid,Review/Product Shoutout,Mommy Blogger,0,0,0,0,0,537
+0,0,Jenny Kearney,Tuesday,0,0,0,1,Micro (<10K),Likely Paid,Review/Product Shoutout,Mommy Blogger,0,0,0,0,0,538
+0,0,Jenny Kearney,Wednesday,0,0,0,1,Micro (<10K),Likely Paid,Review/Product Shoutout,Mommy Blogger,0,0,0,0,0,539
+0,0,Jenny Kearney,Wednesday,0,0,0,1,Micro (<10K),Likely Paid,Review/Product Shoutout,Mommy Blogger,0,0,0,0,0,540
+0,0,Jenny Kearney,Wednesday,0,0,0,1,Micro (<10K),Likely Paid,Review/Product Shoutout,Mommy Blogger,0,0,0,0,0,541
+0,0,Jenny Kearney,Wednesday,0,0,0,1,Micro (<10K),Likely Paid,Review/Product Shoutout,Mommy Blogger,0,0,0,0,0,542
+0,0,Jenny Kearney,Wednesday,0,0,0,1,Micro (<10K),Likely Paid,Review/Product Shoutout,Mommy Blogger,0,0,0,0,0,543
+0,0,Jenny Kearney,Tuesday,0,0,0,1,Micro (<10K),Likely Paid,Review/Product Shoutout,Mommy Blogger,0,0,0,0,0,544
+0,0,Jenny Kearney,Tuesday,0,0,0,1,Micro (<10K),Likely Paid,Review/Product Shoutout,Mommy Blogger,0,0,0,0,0,545
+0,0,Super S,Tuesday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,546
+0,0,Mellisa Tyler Swigart,Wednesday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Family Toy,0,0,0,0,0,547
+0,0,Jenny Kearney,Wednesday,0,0,0,1,Micro (<10K),Likely Paid,Unboxing,Mommy Blogger,0,0,0,0,0,548
+0,0,Super S,Wednesday,0,0,0,1,Micro (<10K),Likely Organic,Hacks/Insider Content,Kid Toy,0,0,0,0,0,549
+1180,1896,Jestina's Playhouse,Saturday,220,13.45,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,550
+903,867347,Keith's Toy Box,Wednesday,10667,1.28,0,2,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,551
+685,278817,Kids Play O'clock,Monday,822,0.29,0,1,Large Scale (100K-500K),Likely Prodct Was Sent,Unboxing,Family Toy,0,0,0,0,0,552
+555,84291,Kids Toys and Joys,Friday,254387,307.45,0,2,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,553
+395,84291,Kids Toys and Joys,Saturday,38467,46.49,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,554
+409,84291,Kids Toys and Joys,Friday,8143,9.84,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,555
+302,84291,Kids Toys and Joys,Saturday,10651,12.87,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,556
+341,84291,Kids Toys and Joys,Saturday,3303,3.99,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,557
+579,84291,Kids Toys and Joys,Friday,1029077,1243.81,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,558
+450,84291,Kids Toys and Joys,Wednesday,3682,4.45,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,559
+672,14028,KikiCatNovelties,Friday,7410,54.58,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,560
+2048,14028,KikiCatNovelties,Monday,52471,386.47,0,2,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,561
+1178,14028,KikiCatNovelties,Saturday,2872,21.15,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Toy Reviewer,0,0,0,0,1,562
+1694,14028,KikiCatNovelties,Friday,6760,49.79,0,2,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,563
+1198,14028,KikiCatNovelties,Saturday,6916,50.94,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,564
+920,14028,KikiCatNovelties,Monday,5546,40.85,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,565
+858,14028,KikiCatNovelties,Thursday,4935,36.35,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Toy Reviewer,0,0,0,0,1,566
+805,14028,KikiCatNovelties,Sunday,4185,30.82,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,567
+1034,14028,KikiCatNovelties,Monday,6239,45.95,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Toy Reviewer,0,0,0,0,1,568
+605,14028,KikiCatNovelties,Wednesday,2045,15.06,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,569
+364,19621,Kinsleigh's World,Sunday,493,2.76,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Kid Toy,0,0,0,0,0,570
+0,0,Paul and Shannon,Monday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Storyteller,0,0,0,0,0,571
+675,57242,Kristen Ingold,Wednesday,28959,53.48,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,572
+459,57242,Kristen Ingold,Thursday,52808,97.52,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,573
+384,57242,Kristen Ingold,Tuesday,543273,1003.29,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,574
+61,57242,Kristen Ingold,Wednesday,42988,79.39,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,575
+1133,57242,Kristen Ingold,Saturday,149757,276.56,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,576
+280,57242,Kristen Ingold,Wednesday,70198,129.64,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,577
+371,57242,Kristen Ingold,Saturday,148698,274.61,0,2,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,578
+267,57242,Kristen Ingold,Saturday,17958,33.16,0,2,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,579
+379,57242,Kristen Ingold,Thursday,33456,61.79,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,580
+455,57242,Kristen Ingold,Tuesday,118376,218.61,0,2,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,581
+485,57242,Kristen Ingold,Wednesday,203127,375.13,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,582
+142,57242,Kristen Ingold,Thursday,47613,87.93,0,2,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,583
+156,57242,Kristen Ingold,Friday,31649,58.45,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,584
+253,57242,Kristen Ingold,Wednesday,47318,87.39,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,585
+135,57242,Kristen Ingold,Friday,132873,245.39,0,2,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,586
+127,57242,Kristen Ingold,Tuesday,829598,1532.09,0,2,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,587
+614,57242,Kristen Ingold,Monday,132638,244.96,0,2,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,588
+323,57242,Kristen Ingold,Friday,620911,1146.71,0,2,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,589
+601,1104610,Kyle's Toys and Games,Friday,431298,40.38,0,1,Mega (500K+),Likely Paid,Unboxing,Kid Toy,0,0,0,0,1,590
+255,1009897,Learn Colors,Saturday,3516,0.35,0,1,Mega (500K+),Likely Prodct Was Sent,Unboxing,Kid Toy,0,0,0,0,0,591
+534,1009897,Learn Colors,Wednesday,5981,0.59,0,1,Mega (500K+),Likely Prodct Was Sent,Review/Product Shoutout,Kid Toy,0,0,0,0,0,592
+682,329442,Lil Monkey Media,Friday,32180,9.99,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,593
+681,329442,Lil Monkey Media,Wednesday,127662,39.64,0,2,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,594
+657,329442,Lil Monkey Media,Sunday,63988,19.87,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,595
+601,329442,Lil Monkey Media,Sunday,148146,46,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,596
+602,329442,Lil Monkey Media,Saturday,103075,32.01,0,2,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,597
+1605,329442,Lil Monkey Media,Saturday,41437,12.87,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,598
+602,329442,Lil Monkey Media,Friday,433361,134.57,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,599
+2485,329442,Lil Monkey Media,Wednesday,221185,68.69,0,2,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,600
+665,329443,Lil Monkey Media,Friday,182173,56.57,0,2,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,601
+671,169605,Little Kelly,Saturday,356,0.21,0,2,Large Scale (100K-500K),Likely Organic,Unboxing,Storyteller,0,0,0,0,0,602
+789,169605,Little Kelly,Saturday,603,0.36,0,1,Large Scale (100K-500K),Likely Organic,Review/Product Shoutout,Storyteller,0,0,0,0,0,603
+1447,169605,Little Kelly,Saturday,493,0.29,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Storyteller,0,0,0,0,0,604
+1218,169605,Little Kelly,Sunday,1014,0.6,0,1,Large Scale (100K-500K),Likely Organic,Review/Product Shoutout,Storyteller,0,0,0,0,0,605
+1160,2788,Little Lady C,Tuesday,5015,181.31,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,606
+1291,2788,Little Lady C,Thursday,16812,607.81,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,607
+889,7904,Louise's Unicorn Powerpuff Girl,Tuesday,58160,789.25,0,1,Micro (<10K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,608
+777,7904,Louise's Unicorn Powerpuff Girl,Thursday,2547,34.56,0,2,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,609
+433,7904,Louise's Unicorn Powerpuff Girl,Monday,2603,35.32,0,1,Micro (<10K),Likely Organic,Unboxing,Family Toy,0,0,0,0,1,610
+1604,7904,Louise's Unicorn Powerpuff Girl,Tuesday,1813,24.6,0,2,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,611
+972,7904,Louise's Unicorn Powerpuff Girl,Thursday,5694,77.27,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,612
+775,7904,Louise's Unicorn Powerpuff Girl,Friday,1775,24.09,0,2,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,613
+740,7904,Louise's Unicorn Powerpuff Girl,Sunday,3218,43.67,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,614
+1136,7904,Louise's Unicorn Powerpuff Girl,Monday,11027,149.64,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,615
+870,7904,Louise's Unicorn Powerpuff Girl,Wednesday,937,12.72,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,616
+169,7904,Louise's Unicorn Powerpuff Girl,Wednesday,825,11.2,0,1,Micro (<10K),Likely Organic,Hacks/Insider Content,Kid Toy,0,0,0,0,0,617
+898,7904,Louise's Unicorn Powerpuff Girl,Thursday,1947,26.42,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,618
+939,7904,Louise's Unicorn Powerpuff Girl,Saturday,837,11.36,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,619
+474,7904,Louise's Unicorn Powerpuff Girl,Saturday,2152,29.2,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,620
+683,7904,Louise's Unicorn Powerpuff Girl,Monday,669,9.08,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,621
+306,7904,Louise's Unicorn Powerpuff Girl,Tuesday,1263,17.14,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,622
+837,7904,Louise's Unicorn Powerpuff Girl,Wednesday,1756,23.83,0,2,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,1,0,1,623
+766,7904,Louise's Unicorn Powerpuff Girl,Saturday,607,8.24,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,624
+606,7904,Louise's Unicorn Powerpuff Girl,Sunday,1263,17.14,0,1,Micro (<10K),Likely Organic,Unboxing,Family Toy,0,0,0,0,1,625
+856,7904,Louise's Unicorn Powerpuff Girl,Monday,11134,151.09,0,2,Micro (<10K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,626
+741,7904,Louise's Unicorn Powerpuff Girl,Saturday,2242,30.42,0,1,Micro (<10K),Likely Organic,Unboxing,Family Toy,0,0,0,0,1,627
+1206,7904,Louise's Unicorn Powerpuff Girl,Monday,3066,41.61,0,1,Micro (<10K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,628
+380,7904,Louise's Unicorn Powerpuff Girl,Sunday,2497,33.89,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,629
+676,7904,Louise's Unicorn Powerpuff Girl,Monday,10335,140.25,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,630
+1807,7904,Louise's Unicorn Powerpuff Girl,Wednesday,1403,19.04,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,631
+721,7904,Louise's Unicorn Powerpuff Girl,Thursday,1829,24.82,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,632
+852,7904,Louise's Unicorn Powerpuff Girl,Thursday,726,9.85,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,633
+731,7904,Louise's Unicorn Powerpuff Girl,Sunday,7074,96,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,634
+560,7904,Louise's Unicorn Powerpuff Girl,Sunday,1066,14.47,0,1,Micro (<10K),Likely Organic,Challenge,Kid Toy,0,0,0,0,0,635
+386,7904,Louise's Unicorn Powerpuff Girl,Monday,939,12.74,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,636
+248,7904,Louise's Unicorn Powerpuff Girl,Monday,478,6.49,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,1,0,0,637
+495,7904,Louise's Unicorn Powerpuff Girl,Monday,1583,21.48,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,638
+527,7904,Louise's Unicorn Powerpuff Girl,Tuesday,1391,18.88,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,639
+357,7904,Louise's Unicorn Powerpuff Girl,Friday,1201,16.3,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,640
+1063,7904,Louise's Unicorn Powerpuff Girl,Wednesday,1925,26.12,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,641
+771,7904,Louise's Unicorn Powerpuff Girl,Friday,2638,35.8,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,642
+611,7904,Louise's Unicorn Powerpuff Girl,Sunday,1419,19.26,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,643
+789,7904,Louise's Unicorn Powerpuff Girl,Tuesday,875,11.87,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,644
+728,7904,Louise's Unicorn Powerpuff Girl,Wednesday,2494,33.84,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,645
+744,7904,Louise's Unicorn Powerpuff Girl,Sunday,23740,322.16,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,646
+640,7904,Louise's Unicorn Powerpuff Girl,Monday,498,6.76,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,647
+753,7904,Louise's Unicorn Powerpuff Girl,Tuesday,1405,19.07,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,648
+604,7904,Louise's Unicorn Powerpuff Girl,Friday,2113,28.67,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,649
+681,7904,Louise's Unicorn Powerpuff Girl,Saturday,17775,241.21,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,650
+743,7904,Louise's Unicorn Powerpuff Girl,Sunday,6053,82.14,0,1,Micro (<10K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,651
+647,7904,Louise's Unicorn Powerpuff Girl,Monday,812,11.02,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,652
+624,7904,Louise's Unicorn Powerpuff Girl,Tuesday,1524,20.68,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,653
+347,7904,Louise's Unicorn Powerpuff Girl,Wednesday,4794,65.06,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,654
+616,7904,Louise's Unicorn Powerpuff Girl,Wednesday,911,12.36,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,655
+501,7904,Louise's Unicorn Powerpuff Girl,Thursday,1949,26.45,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,656
+761,7904,Louise's Unicorn Powerpuff Girl,Friday,2017,27.37,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,657
+71,1193,MaylaKTV,Monday,304,27.89,0,1,Micro (<10K),Likely Organic,Storytelling,Kid Toy,0,0,0,0,1,658
+203,1193,MaylaKTV,Thursday,122,11.19,0,1,Micro (<10K),Likely Organic,Skit,Kid Toy,0,0,0,0,0,659
+299,1193,MaylaKTV,Thursday,274,25.14,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,1,0,1,660
+510,1193,MaylaKTV,Sunday,277,25.41,0,2,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,661
+372,1193,MaylaKTV,Monday,135,12.39,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,662
+471,1193,MaylaKTV,Friday,457,41.93,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,663
+126,1193,MaylaKTV,Monday,144,13.21,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,664
+262,1193,MaylaKTV,Tuesday,167,15.32,0,2,Micro (<10K),Likely Organic,Skit,Kid Toy,0,0,0,0,1,665
+377,1193,MaylaKTV,Thursday,331,30.37,0,1,Micro (<10K),Likely Organic,DIY,Kid Toy,0,0,0,0,1,666
+348,1193,MaylaKTV,Thursday,203,18.62,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,667
+607,1193,MaylaKTV,Sunday,230,21.1,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,668
+133,1193,MaylaKTV,Saturday,343,31.47,0,1,Micro (<10K),Likely Organic,Storytelling,Kid Toy,0,0,0,0,1,669
+609,1193,MaylaKTV,Monday,335,30.73,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,670
+558,1193,MaylaKTV,Sunday,182,16.7,0,2,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,1,0,1,671
+113,1193,MaylaKTV,Sunday,217,19.91,0,1,Micro (<10K),Likely Organic,Storytelling,Kid Toy,0,0,0,0,1,672
+308,1193,MaylaKTV,Wednesday,113,10.37,0,1,Micro (<10K),Likely Organic,Storytelling,Kid Toy,0,0,0,0,0,673
+263,1193,MaylaKTV,Thursday,121,11.1,0,1,Micro (<10K),Likely Organic,Retailer Visit,Kid Toy,0,0,0,0,0,674
+1404,12132,Meivu,Monday,3806,31.97,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,675
+604,12132,Meivu,Friday,6539,54.93,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,676
+604,12132,Meivu,Thursday,1193,10.02,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,677
+1228,12132,Meivu,Sunday,2355,19.78,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,678
+0,0,Mellisa Tyler Swigart,Thursday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,679
+0,0,Mellisa Tyler Swigart,Thursday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Family Vlog,0,0,0,0,0,680
+0,0,Mellisa Tyler Swigart,Thursday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,681
+0,0,Mellisa Tyler Swigart,Thursday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,682
+0,0,Mellisa Tyler Swigart,Thursday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,683
+0,0,Mellisa Tyler Swigart,Thursday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,684
+0,0,Mellisa Tyler Swigart,Thursday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,685
+0,0,Mellisa Tyler Swigart,Thursday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,686
+0,0,Mellisa Tyler Swigart,Thursday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,687
+0,0,Mellisa Tyler Swigart,Thursday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,688
+0,0,Paul and Shannon,Thursday,0,0,0,2,Micro (<10K),Likely Organic,Unboxing,Storyteller,0,0,0,0,0,689
+0,0,Cookie Swirl,Sunday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Storyteller,0,0,0,0,0,690
+0,0,Mellisa Tyler Swigart,Tuesday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Family Vlog,0,0,0,0,0,691
+0,0,Mellisa Tyler Swigart,Tuesday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,692
+0,0,Mellisa Tyler Swigart,Tuesday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,693
+0,0,Mellisa Tyler Swigart,Tuesday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Family Vlog,0,0,0,0,0,694
+0,0,Mellisa Tyler Swigart,Tuesday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Family Vlog,0,0,0,0,0,695
+0,0,Mellisa Tyler Swigart,Tuesday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,696
+0,0,Mellisa Tyler Swigart,Tuesday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,697
+0,0,Mellisa Tyler Swigart,Tuesday,0,0,0,2,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,698
+0,0,Mellisa Tyler Swigart,Tuesday,0,0,0,2,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,699
+0,0,Mellisa Tyler Swigart,Tuesday,0,0,0,2,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,700
+0,0,Mellisa Tyler Swigart,Tuesday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,701
+0,0,Mellisa Tyler Swigart,Tuesday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,702
+0,0,Mellisa Tyler Swigart,Tuesday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,703
+0,0,Sabina Green,Tuesday,0,0,0,2,Micro (<10K),Likely Organic,Unboxing,Mommy Blogger,0,0,0,0,0,704
+0,0,Mellisa Tyler Swigart,Saturday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Family Vlog,0,0,0,0,0,705
+0,0,Mellisa Tyler Swigart,Saturday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,706
+0,0,Mellisa Tyler Swigart,Saturday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,707
+0,0,Mellisa Tyler Swigart,Saturday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,708
+0,0,Mellisa Tyler Swigart,Saturday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,709
+0,0,Mellisa Tyler Swigart,Saturday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,710
+0,0,Mellisa Tyler Swigart,Saturday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,711
+0,0,Mellisa Tyler Swigart,Saturday,0,0,0,2,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,712
+0,0,Mellisa Tyler Swigart,Saturday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,713
+0,0,Mellisa Tyler Swigart,Saturday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,714
+0,0,Mellisa Tyler Swigart,Saturday,0,0,0,2,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,715
+0,0,Mellisa Tyler Swigart,Saturday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,716
+0,0,Mellisa Tyler Swigart,Saturday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,717
+0,0,Mellisa Tyler Swigart,Saturday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Family Vlog,0,0,0,0,0,718
+541,14211,Melody's Treasure Box - Toys Stop Motion Surprises,Sunday,4490,32.75,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,719
+648,14211,Melody's Treasure Box - Toys Stop Motion Surprises,Thursday,15982,116.58,0,2,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,1,0,1,720
+211,14211,Melody's Treasure Box - Toys Stop Motion Surprises,Sunday,23066,168.25,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,721
+539,14211,Melody's Treasure Box - Toys Stop Motion Surprises,Wednesday,77791,567.44,0,2,Mid Scale (10K-100K),Likely Organic,DIY,Kid Toy,0,0,0,0,1,722
+933,14211,Melody's Treasure Box - Toys Stop Motion Surprises,Wednesday,19862,144.89,0,1,Mid Scale (10K-100K),100% Paid,Retailer Visit,Kid Toy,0,0,0,0,1,723
+715,14211,Melody's Treasure Box - Toys Stop Motion Surprises,Sunday,9069,66.16,0,2,Mid Scale (10K-100K),100% Paid,Unboxing,Kid Toy,0,0,0,0,1,724
+788,14211,Melody's Treasure Box - Toys Stop Motion Surprises,Tuesday,55253,403.07,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Family Toy,0,0,0,0,1,725
+178,14211,Melody's Treasure Box - Toys Stop Motion Surprises,Thursday,11109,81.04,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,1,0,1,726
+141,14211,Melody's Treasure Box - Toys Stop Motion Surprises,Monday,2029,14.8,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,1,0,0,727
+652,233286,MintDahlia,Sunday,11345,4.92,0,1,Large Scale (100K-500K),Likely Organic,DIY,Toy Reviewer,0,0,0,0,0,728
+602,233286,MintDahlia,Sunday,155262,67.34,0,1,Large Scale (100K-500K),Likely Organic,DIY,Toy Reviewer,0,0,0,0,1,729
+723,233286,MintDahlia,Friday,1014763,440.11,0,1,Large Scale (100K-500K),Likely Organic,DIY,Toy Reviewer,0,0,0,0,1,730
+652,233286,MintDahlia,Saturday,66254,28.74,0,1,Large Scale (100K-500K),Likely Organic,DIY,Toy Reviewer,0,0,0,0,1,731
+694,233286,MintDahlia,Friday,84858,36.8,0,1,Large Scale (100K-500K),Likely Organic,DIY,Toy Reviewer,0,0,0,0,1,732
+618,233286,MintDahlia,Thursday,112990,49.01,0,1,Large Scale (100K-500K),Likely Organic,DIY,Toy Reviewer,0,0,0,0,1,733
+691,233286,MintDahlia,Saturday,8189,3.55,0,1,Large Scale (100K-500K),Likely Organic,Retailer Visit,Toy Reviewer,0,0,0,0,0,734
+626,233286,MintDahlia,Saturday,62948,27.3,0,1,Large Scale (100K-500K),Likely Organic,DIY,Toy Reviewer,0,0,0,0,1,735
+732,233286,MintDahlia,Friday,29158,12.65,0,1,Large Scale (100K-500K),Likely Organic,DIY,Toy Reviewer,0,0,0,0,0,736
+345,233286,MintDahlia,Monday,7904,3.43,0,1,Large Scale (100K-500K),Likely Organic,DIY,Toy Reviewer,0,0,0,0,0,737
+397,233286,MintDahlia,Thursday,6492,2.82,0,1,Large Scale (100K-500K),Likely Organic,DIY,Toy Reviewer,0,0,0,0,0,738
+734,233286,MintDahlia,Wednesday,6747,2.93,0,1,Large Scale (100K-500K),Likely Organic,DIY,Toy Reviewer,0,0,0,0,0,739
+290,233286,MintDahlia,Thursday,337499,146.38,0,1,Large Scale (100K-500K),Likely Organic,DIY,Toy Reviewer,0,0,0,0,1,740
+601,233286,MintDahlia,Monday,184748,80.13,0,1,Large Scale (100K-500K),Likely Organic,DIY,Toy Reviewer,0,0,0,0,1,741
+301,233286,MintDahlia,Thursday,115128,49.93,0,1,Large Scale (100K-500K),Likely Organic,DIY,Toy Reviewer,0,0,0,0,1,742
+813,233286,MintDahlia,Wednesday,8207,3.56,0,1,Large Scale (100K-500K),Likely Organic,DIY,Toy Reviewer,0,0,0,0,0,743
+364,233286,MintDahlia,Tuesday,12964,5.62,0,1,Large Scale (100K-500K),Likely Organic,DIY,Toy Reviewer,0,0,0,0,0,744
+675,1664,Muminspire Kids,Tuesday,241,14.62,0,1,Micro (<10K),Likely Organic,Unboxing,Family Toy,0,0,0,0,0,745
+515,1664,Muminspire Kids,Saturday,96,5.83,0,2,Micro (<10K),Likely Organic,Unboxing,Family Toy,0,0,0,0,0,746
+472,1703830,MyFroggyStuff,Saturday,58868,3.48,0,1,Mega (500K+),Likely Organic,Unboxing,Family Toy,0,0,0,0,0,747
+201,1703830,MyFroggyStuff,Wednesday,42573,2.52,0,2,Mega (500K+),Likely Organic,Unboxing,Family Toy,0,0,0,0,0,748
+549,1703830,MyFroggyStuff,Saturday,136103,8.04,0,1,Mega (500K+),Likely Organic,Unboxing,Family Toy,0,0,0,0,0,749
+699,1703830,MyFroggyStuff,Wednesday,429401,25.37,0,1,Mega (500K+),Likely Organic,Unboxing,Family Toy,0,0,0,0,1,750
+870,1265,MyHouse TV,Friday,108,9.05,0,1,Micro (<10K),Likely Organic,Unboxing,Family Toy,0,0,0,0,0,751
+1101,1460787,Naiah and Elli,Saturday,814661,56.43,0,1,Mega (500K+),Likely Organic,Challenge,Family Toy,0,0,0,0,1,752
+786,1460787,Naiah and Elli,Saturday,907835,62.88,0,1,Mega (500K+),Likely Organic,Skit,Family Toy,0,0,0,0,1,753
+805,1460787,Naiah and Elli,Saturday,727163,50.37,0,2,Mega (500K+),Likely Organic,Unboxing,Family Toy,0,0,0,0,1,754
+561,1476,Natasha Mairs,Wednesday,357,24.95,0,1,Micro (<10K),Likely Organic,Unboxing,Mommy Blogger,0,0,0,0,1,755
+1027,1476,Natasha Mairs,Wednesday,926,64.71,0,1,Micro (<10K),Likely Organic,Unboxing,Mommy Blogger,0,0,0,0,1,756
+0,0,Natasha Mairs,Thursday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Mommy Blogger,0,0,0,0,0,757
+0,0,Natasha Mairs,Wednesday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Mommy Blogger,0,0,0,0,0,758
+0,0,Natasha Mairs,Wednesday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Mommy Blogger,0,0,0,0,0,759
+0,0,Natasha Mairs,Wednesday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Mommy Blogger,0,0,0,0,0,760
+0,0,Natasha Mairs,Thursday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Mommy Blogger,0,0,0,0,0,761
+0,0,Natasha Mairs,Thursday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Mommy Blogger,0,0,0,0,0,762
+562,77728,Oh Cluck Toys,Thursday,2718,3.59,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,0,763
+545,77728,Oh Cluck Toys,Wednesday,3576,4.73,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,0,764
+581,77728,Oh Cluck Toys,Saturday,3335,4.41,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,0,765
+634,77728,Oh Cluck Toys,Sunday,3794,5.01,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,0,766
+595,77728,Oh Cluck Toys,Monday,5428,7.17,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,0,767
+517,77728,Oh Cluck Toys,Saturday,3638,4.81,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,0,768
+480,77728,Oh Cluck Toys,Wednesday,4329,5.72,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,0,769
+1574,77728,Oh Cluck Toys,Saturday,243551,321.88,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,1,770
+420,77728,Oh Cluck Toys,Saturday,6100,8.06,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,0,771
+741,77728,Oh Cluck Toys,Wednesday,2378,3.14,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,0,772
+788,77728,Oh Cluck Toys,Tuesday,3875,5.12,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,0,773
+934,77728,Oh Cluck Toys,Saturday,8762,11.58,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Toy Reviewer,0,0,0,0,0,774
+1686,77728,Oh Cluck Toys,Sunday,7961,10.52,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,775
+730,77728,Oh Cluck Toys,Friday,1989,2.63,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,776
+1513,77728,Oh Cluck Toys,Saturday,4418,5.84,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,0,777
+690,77728,Oh Cluck Toys,Sunday,4580,6.05,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,0,778
+671,77728,Oh Cluck Toys,Wednesday,5625,7.43,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,0,779
+511,77728,Oh Cluck Toys,Friday,6294,8.32,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,0,780
+471,77728,Oh Cluck Toys,Sunday,7616,10.07,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,781
+782,77728,Oh Cluck Toys,Saturday,12024,15.89,0,1,Mid Scale (10K-100K),Likely Organic,Retailer Visit,Toy Reviewer,0,0,0,0,1,782
+222,86838,Parashot,Thursday,18007,103.76,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,783
+204,86838,Parashot,Wednesday,31645,182.36,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,784
+963,1078042,Paul and Shannon,Wednesday,151379,14.26,0,1,Mega (500K+),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,785
+1028,1078042,Paul and Shannon,Sunday,38412,3.62,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,786
+604,1078042,Paul and Shannon,Tuesday,41395,3.9,0,2,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,787
+850,1078042,Paul and Shannon,Friday,54092,5.1,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,788
+539,1078042,Paul and Shannon,Saturday,62074,5.85,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,789
+1060,1078042,Paul and Shannon,Sunday,66643,6.28,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,790
+740,1078040,Paul and Shannon,Thursday,104882,9.88,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,791
+1251,1078040,Paul and Shannon,Monday,147849,13.93,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,792
+870,1078040,Paul and Shannon,Saturday,441137,41.56,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,793
+942,1078040,Paul and Shannon,Sunday,44235,4.17,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,794
+1001,1078040,Paul and Shannon,Tuesday,60853,5.73,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,795
+1185,1078040,Paul and Shannon,Sunday,47818,4.5,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,796
+647,1078040,Paul and Shannon,Sunday,66337,6.25,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,797
+973,1078040,Paul and Shannon,Tuesday,429948,40.5,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,798
+866,1078040,Paul and Shannon,Sunday,41549,3.91,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,799
+977,1078040,Paul and Shannon,Sunday,46789,4.41,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,800
+1013,1078040,Paul and Shannon,Saturday,44131,4.16,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,801
+910,1078040,Paul and Shannon,Saturday,155486,14.65,0,2,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,802
+796,1078040,Paul and Shannon,Sunday,42155,3.97,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,803
+1025,1078040,Paul and Shannon,Monday,66287,6.24,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,804
+1512,1078040,Paul and Shannon,Wednesday,125019,11.78,0,2,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,805
+860,1078040,Paul and Shannon,Friday,54766,5.16,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,806
+1117,1078040,Paul and Shannon,Sunday,56136,5.29,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,807
+749,1078041,Paul and Shannon,Thursday,80578,7.59,0,1,Mega (500K+),Likely Prodct Was Sent,Unboxing,Toy Reviewer,0,0,0,0,0,808
+1048,1078041,Paul and Shannon,Saturday,161889,15.25,0,1,Mega (500K+),Likely Prodct Was Sent,Unboxing,Toy Reviewer,0,0,0,0,1,809
+1247,1078042,Paul and Shannon,Sunday,71776,6.76,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,810
+724,1078042,Paul and Shannon,Saturday,115148,10.85,0,1,Mega (500K+),Likely Prodct Was Sent,Unboxing,Toy Reviewer,0,0,0,0,0,811
+994,1078042,Paul and Shannon,Sunday,61358,5.78,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,812
+775,1078042,Paul and Shannon,Thursday,712461,67.12,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,813
+977,1078042,Paul and Shannon,Thursday,203498,19.17,0,1,Mega (500K+),Likely Prodct Was Sent,Unboxing,Toy Reviewer,0,0,0,0,1,814
+1075,1078042,Paul and Shannon,Sunday,52972,4.99,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,815
+1325,1078042,Paul and Shannon,Friday,270107,25.45,0,1,Mega (500K+),Likely Prodct Was Sent,Unboxing,Toy Reviewer,0,0,0,0,1,816
+1209,1078042,Paul and Shannon,Saturday,90210,8.5,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,817
+1464,1078042,Paul and Shannon,Tuesday,950876,89.59,0,1,Mega (500K+),Likely Prodct Was Sent,Unboxing,Toy Reviewer,0,0,0,0,1,818
+659,1078042,Paul and Shannon,Thursday,38847,3.66,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,819
+1120,1078042,Paul and Shannon,Sunday,283588,26.72,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,820
+848,1078042,Paul and Shannon,Friday,57271,5.4,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,821
+0,0,Super S,Sunday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,822
+0,0,Super S,Saturday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,823
+0,0,Super S,Saturday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,824
+0,0,Super S,Wednesday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,825
+0,0,Super S,Tuesday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,826
+772,6628,Pierce'sWorld,Wednesday,718,10.91,0,1,Micro (<10K),Likely Organic,Challenge,Kid Toy,0,0,0,0,0,827
+672,6628,Pierce'sWorld,Sunday,182,2.76,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,828
+697,200142,PinkyPopTOY,Saturday,24505,14,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,829
+463,200142,PinkyPopTOY,Thursday,5004,2.86,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,830
+608,200142,PinkyPopTOY,Friday,22423,12.81,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,831
+612,200142,PinkyPopTOY,Friday,36352,20.77,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,832
+627,200142,PinkyPopTOY,Friday,1823720,1042.11,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,833
+328,96428,SkyFunLand Kids,Tuesday,36923,38.49,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,834
+453,96428,SkyFunLand Kids,Tuesday,32359,33.74,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,835
+143,96428,SkyFunLand Kids,Friday,3856,4.02,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Toy Reviewer,0,0,0,0,0,836
+921,12884,Smiles Giggles Laughs,Tuesday,17867,141.72,0,1,Mid Scale (10K-100K),Likely Product Was Sent,Unboxing,Toy Reviewer,0,0,0,0,1,837
+682,12884,Smiles Giggles Laughs,Monday,3231,25.63,0,1,Mid Scale (10K-100K),Likely Product Was Sent,Storytelling,Toy Reviewer,1,0,0,0,1,838
+954,12884,Smiles Giggles Laughs,Friday,800,6.35,0,1,Mid Scale (10K-100K),Likely Product Was Sent,Unboxing,Toy Reviewer,0,0,0,0,0,839
+1417,12884,Smiles Giggles Laughs,Tuesday,7671,60.85,0,1,Mid Scale (10K-100K),Likely Product Was Sent,Unboxing,Toy Reviewer,1,0,0,0,1,840
+258,12884,Smiles Giggles Laughs,Friday,2132,16.91,0,1,Mid Scale (10K-100K),Likely Product Was Sent,Unboxing,Toy Reviewer,0,0,0,0,1,841
+630,12884,Smiles Giggles Laughs,Wednesday,3764,29.86,0,1,Mid Scale (10K-100K),Likely Product Was Sent,Unboxing,Toy Reviewer,0,0,0,0,1,842
+1282,12884,Smiles Giggles Laughs,Monday,214333,1700.25,0,1,Mid Scale (10K-100K),Likely Product Was Sent,Unboxing,Toy Reviewer,0,0,0,0,1,843
+493,12884,Smiles Giggles Laughs,Wednesday,5328,42.27,0,1,Mid Scale (10K-100K),Likely Product Was Sent,Unboxing,Toy Reviewer,0,0,0,0,1,844
+529,12884,Smiles Giggles Laughs,Sunday,107914,856.05,0,1,Mid Scale (10K-100K),Likely Product Was Sent,Unboxing,Toy Reviewer,0,0,0,0,1,845
+349,12884,Smiles Giggles Laughs,Sunday,542,4.3,0,1,Mid Scale (10K-100K),Likely Product Was Sent,Review/Product Shoutout,Kid Toy,0,0,0,0,0,846
+73,1261,Soph Amazing,Monday,1464,117.68,0,1,Micro (<10K),Likely Product Was Sent,Skit,Kid Toy,0,0,0,0,1,847
+317,1261,Soph Amazing,Sunday,1021,82.07,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,1,848
+745,12567,Sophie's Play Day,Tuesday,6359,55.39,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,849
+377,12567,Sophie's Play Day,Wednesday,74238,646.62,0,1,Mid Scale (10K-100K),Likely Product Was Sent,Review/Product Shoutout,Kid Toy,0,0,0,0,1,850
+692,12567,Sophie's Play Day,Thursday,473251,4122.04,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,851
+391,12567,Sophie's Play Day,Thursday,300972,2621.48,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,852
+661,12567,Sophie's Play Day,Friday,19882,173.17,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,853
+751,12567,Sophie's Play Day,Saturday,24259,211.3,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,854
+691,12567,Sophie's Play Day,Sunday,12258,106.77,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,855
+406,12567,Sophie's Play Day,Monday,108923,948.72,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,856
+319,12567,Sophie's Play Day,Tuesday,27422,238.85,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,857
+447,12567,Sophie's Play Day,Saturday,169483,1476.2,0,1,Mid Scale (10K-100K),Likely Organic,Skit,Kid Toy,0,0,0,0,1,858
+198,12567,Sophie's Play Day,Sunday,4030,35.1,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,1,0,1,859
+615,12567,Sophie's Play Day,Saturday,436763,3804.22,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,1,860
+539,12567,Sophie's Play Day,Tuesday,178387,1553.76,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,1,861
+983,12567,Sophie's Play Day,Saturday,3143,27.38,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,1,862
+167,12567,Sophie's Play Day,Tuesday,2781,24.22,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,1,0,1,863
+370,12567,Sophie's Play Day,Monday,9529,83,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,1,864
+574,12567,Sophie's Play Day,Thursday,74825,651.73,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,1,865
+644,12567,Sophie's Play Day,Tuesday,2641,23,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Kid Toy,0,0,0,0,1,866
+317,12567,Sophie's Play Day,Friday,163274,1422.12,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,1,867
+358,12567,Sophie's Play Day,Tuesday,985,8.58,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,1,0,0,868
+647,12567,Sophie's Play Day,Wednesday,739,6.44,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,0,869
+877,12567,Sophie's Play Day,Saturday,3895,33.93,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,1,870
+271,12567,Sophie's Play Day,Wednesday,3140,27.35,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,1,1,871
+211,12567,Sophie's Play Day,Saturday,983,8.56,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,1,0,872
+818,12567,Sophie's Play Day,Tuesday,16871,146.97,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,1,873
+177,12567,Sophie's Play Day,Thursday,669,5.83,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,1,0,0,874
+685,12567,Sophie's Play Day,Friday,5854,51,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,875
+0,0,Squish Princess,Wednesday,817,1.7,0,1,Mid Scale (10K-100K),Likely Product Was Sent,Unboxing,Toy Reviewer,0,0,0,0,0,876
+0,0,Squish Princess,Thursday,2229,4.65,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,877
+0,0,Squish Princess,Saturday,569,1.19,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,878
+0,0,Squish Princess,Wednesday,1181,2.46,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,0,879
+0,0,Squish Princess,Sunday,3607,7.53,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,880
+0,0,Squish Princess,Sunday,2491,5.2,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,881
+0,0,Squish Princess,Saturday,2217,4.63,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,882
+0,0,Squish Princess,Saturday,932,1.94,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,0,883
+0,0,Squish Princess,Sunday,1272,2.65,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,884
+0,0,Squish Princess,Wednesday,1441,3.01,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,0,885
+0,0,Squish Princess,Monday,2083,4.35,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,0,886
+0,0,Squish Princess,Wednesday,2956,6.17,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,887
+0,0,Squish Princess,Tuesday,884,1.84,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,0,888
+527,865843,Stories with Toys & Dolls,Saturday,295765,35.35,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,889
+594,865843,Stories with Toys & Dolls,Monday,88873,10.62,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,890
+946,865843,Stories with Toys & Dolls,Saturday,598729,71.57,0,1,Mega (500K+),Likely Organic,Review/Product Shoutout,Storyteller,0,0,0,0,1,891
+405,865843,Stories with Toys & Dolls,Wednesday,768663,91.89,0,1,Mega (500K+),Likely Organic,Unboxing,Storyteller,0,0,0,0,1,892
+774,865843,Stories with Toys & Dolls,Monday,517284,61.84,0,1,Mega (500K+),Likely Organic,Unboxing,Storyteller,0,0,0,0,1,893
+607,865843,Stories with Toys & Dolls,Tuesday,243246,29.08,0,1,Mega (500K+),Likely Organic,Unboxing,Storyteller,0,0,0,0,1,894
+856,865843,Stories with Toys & Dolls,Sunday,692909,82.83,0,1,Mega (500K+),Likely Product Was Sent,Unboxing,Storyteller,0,1,0,0,1,895
+1005,865843,Stories with Toys & Dolls,Sunday,267612,31.99,0,1,Mega (500K+),Likely Organic,Unboxing,Storyteller,0,0,0,0,1,896
+682,865843,Stories with Toys & Dolls,Wednesday,585738,70.02,0,1,Mega (500K+),Likely Organic,Unboxing,Storyteller,0,0,0,0,1,897
+222,9615,Sugarpop Luna,Thursday,1114,11.82,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,898
+658,9615,Sugarpop Luna,Saturday,4649,49.31,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,899
+1042,9615,Sugarpop Luna,Monday,207387,2200.16,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,900
+626,9615,Sugarpop Luna,Friday,28914,306.75,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,901
+775,9615,Sugarpop Luna,Sunday,358601,3804.38,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,902
+997,301751,Sunshine Sprinkles,Saturday,1892971,671.05,0,1,Large Scale (100K-500K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,1,903
+165,21285,Super S,Tuesday,12966,69.27,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,904
+188,21285,Super S,Thursday,17374,92.81,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,905
+276,21285,Super S,Friday,5073,27.1,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,906
+274,21285,Super S,Saturday,9095,48.59,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,907
+390,21285,Super S,Tuesday,6354,33.94,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,908
+392,21285,Super S,Saturday,28047,149.83,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,1,1,909
+184,21285,Super S,Sunday,9049,48.34,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,910
+365,21285,Super S,Tuesday,92739,495.45,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,1,1,911
+370,21285,Super S,Wednesday,26595,142.08,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,912
+201,21285,Super S,Thursday,21534,115.04,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,913
+238,21285,Super S,Friday,27846,148.77,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,914
+186,21285,Super S,Saturday,14506,77.5,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,915
+332,21285,Super S,Tuesday,8943,47.78,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,916
+192,21285,Super S,Saturday,22043,117.79,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,917
+339,21285,Super S,Sunday,69059,369.02,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,918
+279,21285,Super S,Saturday,41465,221.57,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,919
+162,21285,Super S,Saturday,4518,24.14,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,1,1,920
+303,21285,Super S,Monday,2977,15.91,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,921
+420,21285,Super S,Friday,16126,86.18,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,922
+371,21285,Super S,Friday,69488,371.34,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,923
+324,21285,Super S,Monday,43508,232.5,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,924
+237,21285,Super S,Wednesday,3263,17.44,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,1,925
+84,21285,Super S,Wednesday,8488,45.36,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,926
+458,21285,Super S,Sunday,113237,605.12,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,927
+407,21285,Super S,Wednesday,11093,59.28,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,1,0,1,928
+162,21285,Super S,Friday,124369,664.65,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,929
+158,21285,Super S,Saturday,9875,52.77,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,930
+427,21285,Super S,Tuesday,38499,205.74,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,1,1,931
+593,21285,Super S,Thursday,18058,96.51,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,1,0,1,932
+405,21285,Super S,Saturday,6979,37.3,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,933
+395,21285,Super S,Monday,4349,23.24,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,934
+316,21285,Super S,Wednesday,10401,55.59,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,935
+0,0,Super S,Monday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,936
+0,0,Super S,Thursday,0,0,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,0,937
+0,0,Super S,Saturday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,938
+561,2388132,Surprise Collector & Sunshine,Tuesday,9311,0.39,0,1,Mega (500K+),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,939
+363,2388132,Surprise Collector & Sunshine,Tuesday,9726,0.41,0,1,Mega (500K+),Likely Organic,Challenge,Kid Toy,0,0,0,0,0,940
+679,2388132,Surprise Collector & Sunshine,Thursday,17088,0.72,0,1,Mega (500K+),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,941
+0,0,Surprise Eggs and Toy Fun,Saturday,68314,1531.36,0,1,Micro (<10K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,942
+700,7111,Surprise Eggs and Toy Fun,Tuesday,208,4.67,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,943
+387,7111,Surprise Eggs and Toy Fun,Tuesday,135,3.03,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,0,944
+723,7111,Surprise Eggs and Toy Fun,Saturday,94,2.11,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,945
+389,7111,Surprise Eggs and Toy Fun,Saturday,88,1.98,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,0,946
+469,7111,Surprise Eggs and Toy Fun,Wednesday,350,7.87,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,947
+789,7111,Surprise Eggs and Toy Fun,Sunday,65,1.46,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,948
+313,7111,Surprise Eggs and Toy Fun,Friday,200,4.5,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,949
+195,7111,Surprise Eggs and Toy Fun,Saturday,85,1.91,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,0,950
+1342,7111,Surprise Eggs and Toy Fun,Tuesday,118,2.66,0,1,Micro (<10K),Likely Organic,Storytelling,Kid Toy,0,0,0,0,0,951
+985,7111,Surprise Eggs and Toy Fun,Thursday,85,1.92,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,952
+634,7111,Surprise Eggs and Toy Fun,Saturday,77,1.74,0,1,Micro (<10K),Likely Organic,Challenge,Kid Toy,0,0,0,0,0,953
+701,7111,Surprise Eggs and Toy Fun,Saturday,81,1.83,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,954
+592,7111,Surprise Eggs and Toy Fun,Wednesday,91,2.06,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,955
+188,1235,Swirly Pops,Tuesday,178,14.7,0,1,Micro (<10K),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,956
+1486,1235,Swirly Pops,Saturday,62,5.12,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,957
+1629,1235,Swirly Pops,Monday,45,3.72,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,958
+1435,1235,Swirly Pops,Monday,51,4.21,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,959
+1291,1235,Swirly Pops,Friday,94,7.77,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,960
+327,93590,Symphony's World,Tuesday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,961
+620,217060,TBTV Toy Adventures,Saturday,18235,8.81,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,963
+839,217060,TBTV Toy Adventures,Wednesday,268920,129.99,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,964
+443,217060,TBTV Toy Adventures,Friday,46230,22.35,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,965
+488,217060,TBTV Toy Adventures,Sunday,60868,29.42,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,966
+333,217060,TBTV Toy Adventures,Wednesday,47569,22.99,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,967
+627,217060,TBTV Toy Adventures,Thursday,140788,68.05,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,968
+888,217060,TBTV Toy Adventures,Saturday,18072,8.74,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,969
+601,217060,TBTV Toy Adventures,Monday,45869,22.17,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,970
+1202,217060,TBTV Toy Adventures,Tuesday,8193,3.96,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,971
+810,217060,TBTV Toy Adventures,Tuesday,25306,12.23,0,1,Large Scale (100K-500K),Likely Organic,Review/Product Shoutout,Storyteller,0,0,0,0,0,972
+555,217060,TBTV Toy Adventures,Tuesday,64532,31.19,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,973
+568,217060,TBTV Toy Adventures,Saturday,64884,31.36,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Storyteller,0,0,0,0,1,974
+539,217060,TBTV Toy Adventures,Sunday,8211,3.97,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,975
+1529,217060,TBTV Toy Adventures,Monday,74001,35.77,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,976
+668,217060,TBTV Toy Adventures,Monday,21119,10.21,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,977
+1282,217060,TBTV Toy Adventures,Tuesday,312633,151.12,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,978
+735,217060,TBTV Toy Adventures,Wednesday,44198,21.36,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,979
+1162,217060,TBTV Toy Adventures,Thursday,38053,18.39,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,980
+1121,217060,TBTV Toy Adventures,Saturday,131899,63.76,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,981
+840,217060,TBTV Toy Adventures,Saturday,244327,118.1,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,982
+843,217060,TBTV Toy Adventures,Sunday,2549115,1232.21,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,983
+703,217060,TBTV Toy Adventures,Monday,28306,13.68,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,984
+1585,217060,TBTV Toy Adventures,Tuesday,78519,37.96,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,985
+658,217060,TBTV Toy Adventures,Wednesday,37679,18.21,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Storyteller,0,0,0,0,1,986
+973,217060,TBTV Toy Adventures,Thursday,174111,84.16,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,987
+601,217060,TBTV Toy Adventures,Monday,45869,22.17,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,988
+1202,217060,TBTV Toy Adventures,Tuesday,8193,3.96,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,989
+810,217061,TBTV Toy Adventures,Tuesday,25306,12.23,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,990
+555,217061,TBTV Toy Adventures,Tuesday,64532,31.19,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,991
+568,217061,TBTV Toy Adventures,Saturday,64884,31.36,0,1,Micro (<10K),Likely Organic,Unboxing,Storyteller,0,0,0,0,1,992
+539,217061,TBTV Toy Adventures,Sunday,8211,3.97,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,993
+1529,217061,TBTV Toy Adventures,Monday,74001,35.77,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,994
+668,217061,TBTV Toy Adventures,Monday,21119,10.21,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,995
+1282,217061,TBTV Toy Adventures,Tuesday,312633,151.12,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,996
+735,217061,TBTV Toy Adventures,Wednesday,44198,21.36,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,997
+1162,217061,TBTV Toy Adventures,Thursday,38053,18.39,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,998
+1121,217061,TBTV Toy Adventures,Saturday,131899,63.76,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,999
+840,217061,TBTV Toy Adventures,Saturday,244327,118.1,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1000
+843,217061,TBTV Toy Adventures,Sunday,2549115,1232.21,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1001
+703,217061,TBTV Toy Adventures,Monday,28306,13.68,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,1002
+1585,217061,TBTV Toy Adventures,Tuesday,78519,37.96,0,1,Micro (<10K),Likely Organic,Unboxing,Storyteller,0,0,0,0,1,1003
+658,217061,TBTV Toy Adventures,Wednesday,37679,18.21,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1004
+973,217061,TBTV Toy Adventures,Thursday,174111,84.16,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1005
+849,217061,TBTV Toy Adventures,Friday,12139,5.87,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,1006
+957,217062,TBTV Toy Adventures,Friday,58635,28.34,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1007
+1143,217062,TBTV Toy Adventures,Friday,234171,113.2,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1008
+607,217062,TBTV Toy Adventures,Saturday,32567,15.74,0,1,Micro (<10K),Likely Organic,Unboxing,Storyteller,0,0,0,0,1,1009
+1264,217062,TBTV Toy Adventures,Sunday,141067,68.19,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1010
+1040,217062,TBTV Toy Adventures,Saturday,148764,71.91,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1011
+951,217062,TBTV Toy Adventures,Monday,113654,54.94,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1012
+1100,217062,TBTV Toy Adventures,Tuesday,193679,93.63,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1013
+969,217062,TBTV Toy Adventures,Wednesday,39423,19.06,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1014
+813,217062,TBTV Toy Adventures,Wednesday,25572,12.36,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,1015
+715,217062,TBTV Toy Adventures,Thursday,282911,136.76,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1016
+736,217062,TBTV Toy Adventures,Thursday,13201,6.38,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,1017
+1034,217062,TBTV Toy Adventures,Tuesday,310079,149.9,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1018
+987,217062,TBTV Toy Adventures,Thursday,21473,10.38,0,1,Micro (<10K),Likely Organic,Unboxing,Storyteller,0,0,0,0,0,1019
+805,217062,TBTV Toy Adventures,Thursday,19831,9.59,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,1020
+1172,217062,TBTV Toy Adventures,Monday,1159599,560.57,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1021
+697,217062,TBTV Toy Adventures,Friday,58202,28.14,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1022
+783,217062,TBTV Toy Adventures,Friday,15870,7.67,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,1023
+1135,217062,TBTV Toy Adventures,Saturday,128721,62.23,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1024
+1176,217062,TBTV Toy Adventures,Tuesday,152784,73.86,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1025
+959,217062,TBTV Toy Adventures,Thursday,316004,152.76,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1026
+646,217062,TBTV Toy Adventures,Thursday,73692,35.62,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1027
+1135,217062,TBTV Toy Adventures,Friday,452789,218.89,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1028
+850,217062,TBTV Toy Adventures,Monday,167590,81.02,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1029
+391,217062,TBTV Toy Adventures,Friday,35359,17.09,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1030
+1162,217062,TBTV Toy Adventures,Tuesday,184578,89.23,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1031
+965,217062,TBTV Toy Adventures,Wednesday,418202,202.18,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1032
+1240,217062,TBTV Toy Adventures,Saturday,290875,140.62,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1033
+866,217062,TBTV Toy Adventures,Tuesday,367556,177.7,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1034
+245,217063,TBTV Toy Adventures,Monday,48871,23.63,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1035
+1363,217063,TBTV Toy Adventures,Monday,32376,15.65,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1036
+1122,6387,TBTV Toy Surprises,Wednesday,234563,3860.48,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1037
+913,6387,TBTV Toy Surprises,Thursday,59464,978.67,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1038
+1068,6387,TBTV Toy Surprises,Tuesday,33979,559.23,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1039
+905,6387,TBTV Toy Surprises,Friday,45848,754.58,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1040
+872,6387,TBTV Toy Surprises,Tuesday,32063,527.7,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1041
+728,6388,TBTV Toy Surprises,Monday,25128,413.56,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1042
+1179,6388,TBTV Toy Surprises,Monday,41819,688.27,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1043
+937,6388,TBTV Toy Surprises,Wednesday,5268,86.7,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1044
+347,6388,TBTV Toy Surprises,Thursday,3775,62.13,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1045
+994,6388,TBTV Toy Surprises,Friday,13949,229.58,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1046
+873,6388,TBTV Toy Surprises,Saturday,68217,1122.73,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1047
+595,6388,TBTV Toy Surprises,Wednesday,2194,36.11,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1048
+420,6388,TBTV Toy Surprises,Thursday,27730,456.39,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1049
+1005,6388,TBTV Toy Surprises,Friday,6063,99.79,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1050
+951,6388,TBTV Toy Surprises,Saturday,8967,147.58,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1051
+553,6388,TBTV Toy Surprises,Sunday,6653,109.5,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1052
+628,6388,TBTV Toy Surprises,Monday,11420,187.95,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1053
+386,6388,TBTV Toy Surprises,Tuesday,7216,118.76,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1054
+341,6388,TBTV Toy Surprises,Wednesday,7556,124.36,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1055
+991,6388,TBTV Toy Surprises,Thursday,8737,143.8,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1056
+723,6388,TBTV Toy Surprises,Friday,22728,374.06,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1057
+991,6388,TBTV Toy Surprises,Saturday,9089,149.59,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1058
+777,6388,TBTV Toy Surprises,Monday,7668,126.2,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1059
+724,6388,TBTV Toy Surprises,Tuesday,12399,204.07,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1060
+660,6388,TBTV Toy Surprises,Thursday,12243,201.5,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1061
+678,6388,TBTV Toy Surprises,Friday,6909,113.71,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1062
+677,6388,TBTV Toy Surprises,Saturday,9778,160.93,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,1063
+547,577,Tenille Lafontaine,Monday,18,3.15,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,
+0,0,Tenille Lafontaine,Monday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,
+186,245,The Cool Kids Channel,Sunday,171,88.6,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,1,
+208,245,The Cool Kids Channel,Sunday,133,68.91,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,1,
+223,245,The Cool Kids Channel,Sunday,256,132.64,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,1,
+313,245,The Cool Kids Channel,Wednesday,174,90.16,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,1,
+207,245,The Cool Kids Channel,Sunday,33,17.1,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,1,
+289,245,The Cool Kids Channel,Monday,120,62.18,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,1,
+218,245,The Cool Kids Channel,Sunday,94,48.7,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,1,
+313,29743,The Gummy Channel,Wednesday,1319,4.89,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,0,
+295,29743,The Gummy Channel,Wednesday,2766,10.26,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Kid Toy,0,0,0,0,0,
+463,12047,The Meg and Mo Show,Tuesday,2519,23.16,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+372,12047,The Meg and Mo Show,Thursday,10926,100.45,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+371,12047,The Meg and Mo Show,Monday,6431,59.12,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+234,12047,The Meg and Mo Show,Wednesday,5199,47.8,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,1,
+555,12047,The Meg and Mo Show,Sunday,2234,20.54,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+388,12047,The Meg and Mo Show,Sunday,915,8.41,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,
+429,12047,The Meg and Mo Show,Tuesday,2553,23.47,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+368,12047,The Meg and Mo Show,Wednesday,5968,54.87,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+628,12047,The Meg and Mo Show,Thursday,31650,290.98,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+628,12047,The Meg and Mo Show,Friday,23227,213.54,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+621,12047,The Meg and Mo Show,Saturday,727,6.68,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Kid Toy,0,0,0,0,0,
+742,12047,The Meg and Mo Show,Saturday,9707,89.24,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+497,12047,The Meg and Mo Show,Tuesday,50419,463.58,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+426,12047,The Meg and Mo Show,Thursday,41314,379.86,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,1,0,0,1,
+287,12047,The Meg and Mo Show,Tuesday,8405,77.29,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+287,12047,The Meg and Mo Show,Wednesday,20531,188.79,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+287,12047,The Meg and Mo Show,Saturday,84271,774.91,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+287,12047,The Meg and Mo Show,Saturday,17633,162.14,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+471,12047,The Meg and Mo Show,Sunday,30515,280.6,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+287,12047,The Meg and Mo Show,Wednesday,3198,29.41,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+287,12047,The Meg and Mo Show,Thursday,6949,63.9,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+221,12047,The Meg and Mo Show,Saturday,3276,30.13,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,
+387,12047,The Meg and Mo Show,Saturday,20286,186.56,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+471,12047,The Meg and Mo Show,Sunday,24868,228.69,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+413,12047,The Meg and Mo Show,Tuesday,1083,9.96,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,
+284,12047,The Meg and Mo Show,Wednesday,2633,24.22,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Kid Toy,0,0,0,0,1,
+215,12047,The Meg and Mo Show,Tuesday,15579,143.28,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+339,12047,The Meg and Mo Show,Thursday,11465,105.44,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+336,12047,The Meg and Mo Show,Friday,18281,168.13,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+244,12047,The Meg and Mo Show,Saturday,2758,25.37,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+243,12047,The Meg and Mo Show,Sunday,6518,59.95,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+242,12047,The Meg and Mo Show,Sunday,6890,63.37,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+280,12047,The Meg and Mo Show,Monday,9927,91.3,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+287,12047,The Meg and Mo Show,Tuesday,4020,36.97,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+315,12047,The Meg and Mo Show,Sunday,549,5.05,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,
+291,12047,The Meg and Mo Show,Tuesday,284,2.61,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,
+485,12047,The Meg and Mo Show,Tuesday,2693,24.77,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,
+288,12047,The Meg and Mo Show,Wednesday,544,5,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,
+363,12047,The Meg and Mo Show,Monday,655,6.03,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,
+853,196345,The Patsy Family,Sunday,0,0,0,1,Large Scale (100K-500K),100% Product Was Sent,Unboxing,Family Toy,0,0,0,0,0,
+1782,196345,The Patsy Family,Sunday,0,0,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Family Toy,0,0,0,0,0,
+402,196345,The Patsy Family,Wednesday,0,0,0,1,Large Scale (100K-500K),Likely Organic,Family Vlog,Family Toy,0,0,0,0,0,
+1644,196345,The Patsy Family,Saturday,0,0,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Family Toy,0,0,0,0,0,
+1708,196345,The Patsy Family,Wednesday,0,0,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Family Toy,0,0,0,0,0,
+508,196345,The Patsy Family,Sunday,0,0,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Family Toy,0,0,0,0,0,
+1061,136725,The Sassy Kids,Wednesday,10121,7.74,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Family Toy,0,0,0,0,0,
+488,470754,The Toy Heroes,Friday,18025,3.88,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+277,470754,The Toy Heroes,Tuesday,9466,2.04,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+391,470754,The Toy Heroes,Friday,11613,2.5,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+290,470754,The Toy Heroes,Wednesday,102675,22.12,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+396,470754,The Toy Heroes,Monday,9045,1.95,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+233,470754,The Toy Heroes,Tuesday,5594,1.21,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+350,470754,The Toy Heroes,Friday,11153,2.4,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+282,470754,The Toy Heroes,Thursday,15424,3.32,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+350,1480,Tiffany Taylor,Tuesday,1312,92.39,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,
+235,1480,Tiffany Taylor,Tuesday,885,62.32,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,
+427,1480,Tiffany Taylor,Thursday,663,46.69,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,
+596,1480,Tiffany Taylor,Wednesday,1171,82.46,0,1,Micro (<10K),Likely Organic,DIY,Kid Toy,0,0,0,0,1,
+512,1480,Tiffany Taylor,Thursday,312,21.97,0,1,Mega (500K+),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,
+618,950454,TiTi Toys,Saturday,127962,14.03,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+1015,950454,TiTi Toys,Friday,40894,4.48,0,2,Mega (500K+),Likely Organic,Hacks/Insider Content,Storyteller,0,0,0,0,0,
+1052,950454,TiTi Toys,Thursday,212241,23.26,0,1,Mega (500K+),Likely Organic,Review/Product Shoutout,Storyteller,0,0,0,0,1,
+601,950454,TiTi Toys,Friday,30006,3.29,0,2,Mega (500K+),Likely Organic,Unboxing,Storyteller,0,0,0,0,0,
+744,950454,TiTi Toys,Thursday,491900,53.92,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+777,950454,TiTi Toys,Sunday,920776,100.93,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+761,950454,TiTi Toys,Wednesday,55719,6.11,0,1,Mega (500K+),Likely Organic,Challenge,Storyteller,0,0,0,0,0,
+646,950455,TiTi Toys,Monday,1027425,112.62,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1127,950455,TiTi Toys,Tuesday,497975,54.58,0,1,Mega (500K+),Likely Organic,Hacks/Insider Content,Storyteller,0,0,0,0,1,
+616,950455,TiTi Toys,Saturday,35851,3.93,0,1,Mega (500K+),Likely Organic,Unboxing,Storyteller,0,0,0,0,0,
+851,950455,TiTi Toys,Sunday,532607,58.38,0,1,Mega (500K+),Likely Organic,Challenge,Storyteller,0,0,0,0,1,
+673,950455,TiTi Toys,Wednesday,1006654,110.34,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+674,950455,TiTi Toys,Saturday,48446,5.31,0,1,Mega (500K+),Likely Organic,Unboxing,Storyteller,0,0,0,0,0,
+741,950455,TiTi Toys,Sunday,1025089,112.36,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+632,950455,TiTi Toys,Saturday,189271,20.75,0,2,Mega (500K+),Likely Organic,Unboxing,Storyteller,0,0,0,0,1,
+610,950455,TiTi Toys,Friday,511625,56.08,0,2,Mega (500K+),Likely Organic,Unboxing,Storyteller,0,0,0,0,1,
+823,950455,TiTi Toys,Saturday,661782,72.54,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+810,950455,TiTi Toys,Saturday,198264,21.73,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+737,950455,TiTi Toys,Friday,544489,59.68,0,1,Mega (500K+),Likely Organic,Hacks/Insider Content,Storyteller,0,0,0,0,1,
+613,950455,TiTi Toys,Thursday,129419,14.19,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+746,950455,TiTi Toys,Wednesday,404305,44.32,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1774,950455,TiTi Toys,Thursday,1549842,169.89,0,1,Mega (500K+),Likely Organic,Unboxing,Storyteller,0,0,0,0,1,
+682,950455,TiTi Toys,Wednesday,56910,6.24,0,1,Mega (500K+),Likely Organic,Unboxing,Storyteller,0,0,0,0,0,
+631,950455,TiTi Toys,Monday,123292,13.52,0,1,Mega (500K+),Likely Organic,Review/Product Shoutout,Storyteller,0,0,0,0,0,
+628,950455,TiTi Toys,Friday,79216,8.68,0,1,Mega (500K+),Likely Organic,DIY,Storyteller,0,0,0,0,0,
+1625,950456,TiTi Toys,Sunday,946529,103.76,0,1,Mega (500K+),Likely Organic,Unboxing,Storyteller,0,0,0,0,1,
+608,950455,TiTi Toys,Friday,460209,50.45,0,1,Mega (500K+),Likely Organic,Hacks/Insider Content,Storyteller,0,0,0,0,1,
+1018,950455,TiTi Toys,Tuesday,1011188,110.85,0,1,Mega (500K+),Likely Organic,Unboxing,Storyteller,0,0,0,0,1,
+930,950456,TiTi Toys,Thursday,1499875,164.42,0,1,Mega (500K+),Likely Organic,Hacks/Insider Content,Storyteller,0,0,0,0,1,
+2280,1383216,TJ Wick (Hailey's Magical Playhouse),Saturday,122095,8.87,0,2,Mega (500K+),Likely Prodct Was Sent,Unboxing,Kid Toy,0,0,0,0,0,
+0,0,TJ Wick (Hailey's Magical Playhouse),Tuesday,0,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,
+662,54953,ToonToon Toys,Sunday,262,0.48,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+455,54953,ToonToon Toys,Thursday,222,0.41,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+1700,54953,ToonToon Toys,Saturday,243,0.44,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+934,54953,ToonToon Toys,Wednesday,322,0.59,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+1423,54953,ToonToon Toys,Thursday,187,0.34,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+841,54953,ToonToon Toys,Saturday,260,0.47,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+600,54953,ToonToon Toys,Saturday,289,0.53,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+749,54953,ToonToon Toys,Saturday,206,0.38,0,2,Mid Scale (10K-100K),Likely Organic,Unboxing,Storyteller,0,0,0,0,0,
+665,54953,ToonToon Toys,Friday,585,1.07,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+889,54953,ToonToon Toys,Friday,436,0.8,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+324,251416,Toy Caboodle,Friday,5470,2.35,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+505,251416,Toy Caboodle,Friday,13757,5.91,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+643,251416,Toy Caboodle,Saturday,245350,105.44,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,
+333,251416,Toy Caboodle,Friday,8494,3.65,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+558,251416,Toy Caboodle,Wednesday,11262,4.84,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Toy Reviewer,0,0,0,0,0,
+767,251416,Toy Caboodle,Monday,41065,17.65,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Toy Reviewer,0,0,0,0,1,
+1032,251416,Toy Caboodle,Sunday,5519,2.37,0,1,Large Scale (100K-500K),100% Product Was Sent,Unboxing,Toy Reviewer,1,0,0,0,0,
+1093,106762,TOY DAYCARE,Saturday,1165,1.11,0,1,Large Scale (100K-500K),100% Product Was Sent,Unboxing,Toy Reviewer,1,0,0,0,0,
+787,106762,TOY DAYCARE,Thursday,1122,1.07,0,1,Large Scale (100K-500K),Likely Prodct Was Sent,Unboxing,Toy Reviewer,0,0,0,0,0,
+1896,619170,Toy Egg Videos,Saturday,197215,34.19,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+3574,619170,Toy Egg Videos,Saturday,675193,117.06,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2192,619170,Toy Egg Videos,Thursday,424617,73.62,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1864,619144,Toy Egg Videos,Thursday,497582,86.27,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2064,619144,Toy Egg Videos,Friday,318650,55.25,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2633,619144,Toy Egg Videos,Friday,587171,101.8,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2159,619144,Toy Egg Videos,Wednesday,438561,76.04,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1936,619145,Toy Egg Videos,Wednesday,309447,53.65,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1963,619145,Toy Egg Videos,Tuesday,274201,47.54,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2428,619146,Toy Egg Videos,Monday,272262,47.2,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2350,619146,Toy Egg Videos,Monday,386161,66.95,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2693,619146,Toy Egg Videos,Tuesday,177671,30.8,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2030,619146,Toy Egg Videos,Saturday,1330334,230.66,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2196,619146,Toy Egg Videos,Saturday,509196,88.29,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1887,619145,Toy Egg Videos,Sunday,451023,78.2,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2129,619145,Toy Egg Videos,Sunday,537666,93.22,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1853,619145,Toy Egg Videos,Tuesday,294386,51.04,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2910,619145,Toy Egg Videos,Wednesday,275710,47.8,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2201,619145,Toy Egg Videos,Tuesday,619360,107.39,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1615,619145,Toy Egg Videos,Wednesday,121177,21.01,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2061,619145,Toy Egg Videos,Friday,154509,26.79,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2153,619145,Toy Egg Videos,Friday,952982,165.23,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1515,619145,Toy Egg Videos,Sunday,173023,30,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1673,619145,Toy Egg Videos,Thursday,106209,18.41,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1534,619145,Toy Egg Videos,Thursday,244680,42.42,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1430,619145,Toy Egg Videos,Sunday,263347,45.66,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1849,619145,Toy Egg Videos,Monday,484424,83.99,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2117,619145,Toy Egg Videos,Monday,363305,62.99,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+3209,619145,Toy Egg Videos,Saturday,542713,94.1,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2532,619145,Toy Egg Videos,Saturday,479105,83.07,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1908,619145,Toy Egg Videos,Thursday,369824,64.12,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2260,619145,Toy Egg Videos,Thursday,216109,37.47,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1397,619145,Toy Egg Videos,Friday,288675,50.05,0,2,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2137,619145,Toy Egg Videos,Friday,362632,62.87,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2478,619145,Toy Egg Videos,Wednesday,757930,131.41,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2077,619145,Toy Egg Videos,Wednesday,205998,35.72,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1635,619145,Toy Egg Videos,Tuesday,149082,25.85,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1973,619146,Toy Egg Videos,Monday,340307,59,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1816,619146,Toy Egg Videos,Monday,590952,102.46,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2562,619146,Toy Egg Videos,Tuesday,437593,75.87,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2927,619146,Toy Egg Videos,Saturday,1467402,254.43,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1589,619146,Toy Egg Videos,Saturday,285123,49.44,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1587,619146,Toy Egg Videos,Sunday,365743,63.41,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2007,619146,Toy Egg Videos,Sunday,1340855,232.49,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1828,619146,Toy Egg Videos,Friday,348310,60.39,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2079,619146,Toy Egg Videos,Friday,1255429,217.67,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1484,619146,Toy Egg Videos,Thursday,183479,31.81,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2636,619147,Toy Egg Videos,Thursday,872146,151.22,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1366,619147,Toy Egg Videos,Sunday,400941,69.52,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1454,619147,Toy Egg Videos,Wednesday,174714,30.29,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1874,619147,Toy Egg Videos,Sunday,2276648,394.74,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1804,619147,Toy Egg Videos,Monday,223054,38.67,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1506,619147,Toy Egg Videos,Tuesday,679743,117.86,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1864,619147,Toy Egg Videos,Tuesday,442526,76.73,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1240,619147,Toy Egg Videos,Wednesday,220048,38.15,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1427,619147,Toy Egg Videos,Saturday,908189,157.47,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1357,619147,Toy Egg Videos,Monday,231519,40.14,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1375,619146,Toy Egg Videos,Saturday,585692,101.55,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1520,619147,Toy Egg Videos,Saturday,735274,127.49,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+959,619148,Toy Egg Videos,Saturday,282527,48.99,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1297,619148,Toy Egg Videos,Saturday,630718,109.36,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+3108,619148,Toy Egg Videos,Wednesday,463461,80.36,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1350,619148,Toy Egg Videos,Wednesday,216102,37.47,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1327,619148,Toy Egg Videos,Saturday,1841081,319.22,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1505,619148,Toy Egg Videos,Tuesday,433246,75.12,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1816,619149,Toy Egg Videos,Tuesday,318901,55.29,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1648,619149,Toy Egg Videos,Monday,498077,86.36,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1542,619149,Toy Egg Videos,Monday,233757,40.53,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2195,619149,Toy Egg Videos,Sunday,1282780,222.42,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1887,619149,Toy Egg Videos,Sunday,367044,63.64,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+608,619149,Toy Egg Videos,Saturday,597449,103.59,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1602,619148,Toy Egg Videos,Saturday,644915,111.82,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1149,619149,Toy Egg Videos,Friday,477165,82.74,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1358,619149,Toy Egg Videos,Thursday,226012,39.19,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1282,619149,Toy Egg Videos,Thursday,323923,56.17,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1504,619149,Toy Egg Videos,Friday,116451,20.19,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1652,619149,Toy Egg Videos,Wednesday,426775,74,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1132,619150,Toy Egg Videos,Wednesday,1023652,177.49,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1616,619150,Toy Egg Videos,Tuesday,625831,108.52,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1301,619150,Toy Egg Videos,Tuesday,366942,63.63,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1313,619150,Toy Egg Videos,Monday,499653,86.64,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1696,619150,Toy Egg Videos,Monday,1973719,342.23,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1398,619150,Toy Egg Videos,Sunday,370650,64.27,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1173,619150,Toy Egg Videos,Saturday,292987,50.8,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1377,619150,Toy Egg Videos,Sunday,891067,154.51,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1760,619150,Toy Egg Videos,Saturday,665177,115.34,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1959,619150,Toy Egg Videos,Friday,366232,63.5,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1558,619150,Toy Egg Videos,Friday,633866,109.91,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1309,619150,Toy Egg Videos,Thursday,415452,72.04,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1394,619151,Toy Egg Videos,Thursday,753253,130.61,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1700,619152,Toy Egg Videos,Tuesday,951244,164.94,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1798,619152,Toy Egg Videos,Tuesday,1353075,234.62,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1497,619152,Toy Egg Videos,Wednesday,163025,28.27,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1294,619152,Toy Egg Videos,Wednesday,750497,130.13,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1491,619153,Toy Egg Videos,Monday,1822922,316.09,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1838,619153,Toy Egg Videos,Monday,937995,162.65,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1620,619153,Toy Egg Videos,Sunday,1688012,292.7,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1244,619153,Toy Egg Videos,Sunday,152519,26.45,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2014,619153,Toy Egg Videos,Saturday,492297,85.36,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1270,619153,Toy Egg Videos,Saturday,580506,100.66,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1791,619153,Toy Egg Videos,Friday,212222,36.8,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1670,619153,Toy Egg Videos,Friday,552992,95.89,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1648,619153,Toy Egg Videos,Thursday,927684,160.86,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1309,619153,Toy Egg Videos,Thursday,83946,14.56,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+1246,619153,Toy Egg Videos,Wednesday,375999,65.2,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1773,619153,Toy Egg Videos,Tuesday,327963,56.87,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1285,619153,Toy Egg Videos,Tuesday,1621441,281.16,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1349,619153,Toy Egg Videos,Sunday,163393,28.33,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2862,619153,Toy Egg Videos,Sunday,158943,27.56,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1872,619153,Toy Egg Videos,Monday,310606,53.86,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1622,619153,Toy Egg Videos,Monday,897133,155.57,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1714,619153,Toy Egg Videos,Saturday,583145,101.12,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1406,619153,Toy Egg Videos,Saturday,539603,93.57,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1679,619153,Toy Egg Videos,Friday,964927,167.32,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1712,619153,Toy Egg Videos,Friday,318853,55.29,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1581,619153,Toy Egg Videos,Thursday,112577,19.52,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1243,619153,Toy Egg Videos,Wednesday,595623,103.28,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1545,619153,Toy Egg Videos,Wednesday,663540,115.06,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1640,619153,Toy Egg Videos,Thursday,347448,60.25,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1515,619153,Toy Egg Videos,Tuesday,120550,20.9,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1332,619153,Toy Egg Videos,Monday,319094,55.33,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1828,619153,Toy Egg Videos,Sunday,154827,26.85,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1147,619154,Toy Egg Videos,Sunday,310753,53.89,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1683,619154,Toy Egg Videos,Friday,188753,32.73,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1981,619154,Toy Egg Videos,Saturday,262610,45.54,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1669,619154,Toy Egg Videos,Saturday,681901,118.25,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+2122,619154,Toy Egg Videos,Wednesday,746935,129.52,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1130,619154,Toy Egg Videos,Wednesday,492710,85.44,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1639,619154,Toy Egg Videos,Tuesday,1617134,280.43,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1348,619154,Toy Egg Videos,Tuesday,371512,64.42,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1167,619154,Toy Egg Videos,Friday,539298,93.52,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1401,619155,Toy Egg Videos,Friday,275009,47.69,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1486,619155,Toy Egg Videos,Thursday,794945,137.85,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1394,619155,Toy Egg Videos,Thursday,876764,152.04,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1666,619155,Toy Egg Videos,Saturday,213926,37.1,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1163,619155,Toy Egg Videos,Sunday,481031,83.42,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1455,619155,Toy Egg Videos,Sunday,151555,26.28,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1619,619155,Toy Egg Videos,Monday,1508847,261.65,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1339,619155,Toy Egg Videos,Monday,365660,63.41,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1246,619155,Toy Egg Videos,Wednesday,338780,58.75,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1327,619155,Toy Egg Videos,Saturday,246133,42.68,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1727,619155,Toy Egg Videos,Tuesday,170342,29.54,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1181,619155,Toy Egg Videos,Wednesday,504984,87.57,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1002,619155,Toy Egg Videos,Tuesday,414844,71.94,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1334,619155,Toy Egg Videos,Saturday,1722124,298.64,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1894,619155,Toy Egg Videos,Monday,301600,52.3,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1304,619155,Toy Egg Videos,Friday,609491,105.69,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1249,619156,Toy Egg Videos,Saturday,257921,44.73,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1372,619156,Toy Egg Videos,Sunday,488262,84.67,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1359,619156,Toy Egg Videos,Sunday,98241,17.04,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1598,619156,Toy Egg Videos,Monday,79836,13.84,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+1266,619156,Toy Egg Videos,Friday,409749,71.06,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1386,619157,Toy Egg Videos,Thursday,266382,46.19,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1072,619157,Toy Egg Videos,Thursday,527099,91.41,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1587,619157,Toy Egg Videos,Wednesday,270532,46.91,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1148,619157,Toy Egg Videos,Wednesday,540383,93.71,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1454,619157,Toy Egg Videos,Monday,214930,37.27,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1485,619157,Toy Egg Videos,Monday,293590,50.91,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1384,619157,Toy Egg Videos,Tuesday,574307,99.59,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1930,619157,Toy Egg Videos,Tuesday,303053,52.55,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1425,619157,Toy Egg Videos,Sunday,407628,70.69,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+761,619157,Toy Egg Videos,Sunday,437781,75.92,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+660,619157,Toy Egg Videos,Friday,264059,45.79,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1641,619157,Toy Egg Videos,Saturday,331139,57.42,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1435,619158,Toy Egg Videos,Saturday,311129,53.95,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1924,619158,Toy Egg Videos,Friday,676140,117.25,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1397,619158,Toy Egg Videos,Thursday,546122,94.71,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+706,619158,Toy Egg Videos,Thursday,138087,23.95,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+721,619158,Toy Egg Videos,Wednesday,95465,16.56,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1026,619158,Toy Egg Videos,Wednesday,668892,116,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+965,619158,Toy Egg Videos,Tuesday,507945,88.09,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1933,619158,Toy Egg Videos,Tuesday,1412569,244.96,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1221,619158,Toy Egg Videos,Monday,304696,52.84,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1232,619158,Toy Egg Videos,Monday,1134488,196.74,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+655,1460,Toy Galaxy Reviews,Friday,2193,152.72,0,1,Micro (<10K),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,1,
+943,1460,Toy Galaxy Reviews,Wednesday,1399,97.42,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+754,20955,Toy Transformations!,Tuesday,5856,31.34,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+723,20955,Toy Transformations!,Friday,57781,309.24,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+604,20955,Toy Transformations!,Monday,99043,530.07,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+608,20955,Toy Transformations!,Thursday,2766,14.8,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,0,
+601,20955,Toy Transformations!,Saturday,15733,84.2,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+602,20955,Toy Transformations!,Tuesday,13598,72.77,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+622,20955,Toy Transformations!,Thursday,1105,5.91,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,0,
+601,20955,Toy Transformations!,Saturday,832,4.45,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,0,
+654,20955,Toy Transformations!,Monday,2049,10.97,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,0,
+854,20955,Toy Transformations!,Tuesday,4685,25.08,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+607,20955,Toy Transformations!,Saturday,58209,311.56,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+748,20955,Toy Transformations!,Saturday,2312,12.37,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,0,
+601,20956,Toy Transformations!,Monday,449208,2404.37,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+689,20956,Toy Transformations!,Thursday,253112,1354.77,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+672,20956,Toy Transformations!,Friday,2961,15.85,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+945,20956,Toy Transformations!,Saturday,134508,719.95,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+807,20956,Toy Transformations!,Wednesday,7245,38.78,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+722,20956,Toy Transformations!,Friday,125148,669.89,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+934,20956,Toy Transformations!,Saturday,3192,17.09,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+741,20956,Toy Transformations!,Monday,4300,23.02,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+741,20956,Toy Transformations!,Wednesday,5735,30.7,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+869,20956,Toy Transformations!,Friday,52660,281.88,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+720,20956,Toy Transformations!,Saturday,1718,9.2,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,0,
+653,20956,Toy Transformations!,Wednesday,607469,3251.63,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+785,20956,Toy Transformations!,Friday,1755,9.39,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,0,
+817,20956,Toy Transformations!,Sunday,10001,53.54,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+770,20956,Toy Transformations!,Monday,2412,12.91,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,0,
+689,20956,Toy Transformations!,Thursday,1272,6.81,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,0,
+805,20956,Toy Transformations!,Friday,2681,14.35,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,0,
+736,20956,Toy Transformations!,Saturday,18368,98.32,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+833,20956,Toy Transformations!,Tuesday,5688,30.45,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+807,20956,Toy Transformations!,Thursday,13195,70.63,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+791,20956,Toy Transformations!,Monday,6297,33.71,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+712,20956,Toy Transformations!,Wednesday,2382,12.75,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,0,
+810,20956,Toy Transformations!,Friday,997,5.34,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,0,
+615,20956,Toy Transformations!,Wednesday,3714,19.88,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+773,20956,Toy Transformations!,Friday,1921,10.28,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,0,
+719,20956,Toy Transformations!,Sunday,1206,6.46,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,0,
+786,20956,Toy Transformations!,Tuesday,4336,23.21,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+602,20956,Toy Transformations!,Thursday,365151,1954.87,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,1,
+641,20956,Toy Transformations!,Friday,1718,9.2,0,1,Mid Scale (10K-100K),Likely Organic,DIY,Storyteller,0,0,0,0,0,
+573,58733,ToyHouseHD,Tuesday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+342,58733,ToyHouseHD,Tuesday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+618,58733,ToyHouseHD,Friday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+320,58733,ToyHouseHD,Tuesday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+387,58733,ToyHouseHD,Saturday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+401,58733,ToyHouseHD,Tuesday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+493,58733,ToyHouseHD,Thursday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+528,58733,ToyHouseHD,Saturday,0,0,0,1,Mid Scale (10K-100K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+586,8158367,Toys AndMe,Sunday,1027190,12.79,0,1,Mega (500K+),Likely Organic,Family Vlog,Kid Toy,0,0,0,0,0,
+1297,8158367,Toys AndMe,Friday,1095174,13.64,0,1,Mega (500K+),Likely Organic,Challenge,Kid Toy,0,0,0,0,0,
+436,8158367,Toys AndMe,Saturday,569278,7.09,0,1,Mega (500K+),Likely Organic,Family Vlog,Kid Toy,0,0,0,0,0,
+1425,8158367,Toys AndMe,Sunday,2391992,29.79,0,1,Mega (500K+),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+1251,8158367,Toys AndMe,Saturday,1033099,12.87,0,1,Mega (500K+),Likely Organic,Challenge,Kid Toy,0,0,0,0,0,
+1455,8158367,Toys AndMe,Saturday,3243775,40.4,0,1,Mega (500K+),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+1147,8158367,Toys AndMe,Sunday,745464,9.28,0,1,Mega (500K+),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,
+136,0,Toys LikeHoney,Monday,75946,7594600,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,1,
+428,0,Toys LikeHoney,Tuesday,162137,16213700,0,1,Micro (<10K),Likely Organic,Storytelling,Kid Toy,0,0,0,0,1,
+688,0,Toys LikeHoney,Wednesday,28151,2815100,0,1,Micro (<10K),Likely Organic,Hacks/Insider Content,Kid Toy,0,0,0,0,1,
+194,0,Toys LikeHoney,Friday,71204,7120400,0,1,Micro (<10K),Likely Organic,Hacks/Insider Content,Kid Toy,0,0,0,0,1,
+377,0,Toys LikeHoney,Tuesday,5866605,586660500,0,1,Micro (<10K),Likely Organic,Hacks/Insider Content,Kid Toy,0,0,0,0,1,
+547,0,Toys LikeHoney,Sunday,94385,9438500,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,
+441,0,Toys LikeHoney,Tuesday,237874,23787400,0,1,Micro (<10K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+609,0,Toys LikeHoney,Thursday,117113,11711300,0,1,Micro (<10K),Likely Organic,Hacks/Insider Content,Kid Toy,0,0,0,0,1,
+615,0,Toys LikeHoney,Saturday,147760,14776000,0,1,Micro (<10K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+216,0,Toys LikeHoney,Wednesday,49064,4906400,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,
+415,0,Toys LikeHoney,Friday,73512,7351200,0,1,Micro (<10K),Likely Organic,Storytelling,Kid Toy,0,0,0,0,1,
+504,0,Toys LikeHoney,Saturday,154582,15458200,0,1,Micro (<10K),Likely Organic,Challenge,Kid Toy,0,0,0,0,1,
+254,0,Toys LikeHoney,Monday,30734,3073400,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,
+633,0,Toys LikeHoney,Wednesday,96930,9693000,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,
+718,0,Toys LikeHoney,Friday,121489,12148900,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Kid Toy,0,0,0,0,1,
+284,0,Toys LikeHoney,Monday,21969,2196900,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,1,
+678,4480240,Toys Unlimited,Sunday,163649,3.74,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+324,4480240,Toys Unlimited,Friday,729445,16.69,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+560,4480240,Toys Unlimited,Friday,98200,2.25,0,1,Mega (500K+),Likely Organic,DIY,Storyteller,0,0,0,0,0,
+557,4480239,Toys Unlimited,Tuesday,111758,2.56,0,1,Mega (500K+),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+699,4480239,Toys Unlimited,Saturday,207253,4.74,0,1,Mega (500K+),Likely Prodct Was Sent,Unboxing,Storyteller,0,0,0,0,0,
+616,4480239,Toys Unlimited,Friday,162086,3.71,0,1,Mega (500K+),Likely Organic,DIY,Storyteller,0,0,0,0,0,
+698,309575,Toys Unlimited JR.,Sunday,153545,51.7,0,1,Mega (500K+),Likely Prodct Was Sent,Unboxing,Storyteller,0,0,0,0,1,
+519,309575,Toys Unlimited JR.,Thursday,25256,8.5,0,1,Large Scale (100K-500K),Likely Organic,DIY,Storyteller,0,0,0,0,0,
+379,309575,Toys Unlimited JR.,Sunday,50746,17.09,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+484,1306,TOYTASTIC TV,Monday,156,12.43,0,1,Large Scale (100K-500K),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,
+640,1306,TOYTASTIC TV,Tuesday,199,15.86,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+552,1306,TOYTASTIC TV,Monday,95,7.57,0,1,Micro (<10K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,0,
+1087,1306,TOYTASTIC TV,Monday,91,7.25,0,2,Micro (<10K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,1,0,0,
+338,1306,TOYTASTIC TV,Tuesday,53,4.22,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,0,
+720,1306,TOYTASTIC TV,Saturday,85,6.78,0,2,Micro (<10K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,0,
+516,1306,TOYTASTIC TV,Thursday,73,5.82,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+288,1306,TOYTASTIC TV,Wednesday,331,26.48,0,2,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+930,1306,TOYTASTIC TV,Thursday,96,7.68,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,0,
+680,286963,Toyz Swirl,Thursday,7492,2.72,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+600,286963,Toyz Swirl,Saturday,8362,3.04,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+614,286963,Toyz Swirl,Monday,5286,1.92,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+656,286963,Toyz Swirl,Saturday,6394,2.32,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+860,286963,Toyz Swirl,Friday,64198,23.34,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+638,286963,Toyz Swirl,Wednesday,26257,9.55,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+743,286963,Toyz Swirl,Tuesday,164242,59.71,0,1,Large Scale (100K-500K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+769,687336,Treasure Chest Surprise Toys,Saturday,97760,14.4,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+1255,687336,Treasure Chest Surprise Toys,Tuesday,16610,2.45,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+986,687336,Treasure Chest Surprise Toys,Wednesday,10938,1.61,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+638,687336,Treasure Chest Surprise Toys,Tuesday,40586,5.98,0,1,Mega (500K+),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+955,687336,Treasure Chest Surprise Toys,Saturday,146272,21.55,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,1,
+985,687336,Treasure Chest Surprise Toys,Wednesday,21092,3.11,0,1,Mega (500K+),Likely Organic,Challenge,Toy Reviewer,0,0,0,0,0,
+973,687336,Treasure Chest Surprise Toys,Tuesday,35961,5.3,0,1,Mega (500K+),Likely Organic,Challenge,Toy Reviewer,0,0,0,0,0,
+901,687336,Treasure Chest Surprise Toys,Friday,28199,4.15,0,1,Mega (500K+),Likely Organic,Challenge,Toy Reviewer,0,0,0,0,0,
+870,687336,Treasure Chest Surprise Toys,Saturday,148551,21.88,0,1,Mega (500K+),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,1,
+781,687336,Treasure Chest Surprise Toys,Friday,15910,2.34,0,1,Mega (500K+),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,0,
+626,687336,Treasure Chest Surprise Toys,Saturday,93040,13.71,0,1,Mega (500K+),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,0,
+477,1002,Trusty Toy Channel,Sunday,40,4.38,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+1086,1002,Trusty Toy Channel,Saturday,189,20.68,0,2,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+454,0,Twins Living Life,Thursday,147096,0,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+330,0,Twins Living Life,Thursday,5210,0,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+546,0,Twins Living Life,Thursday,3632,0,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+523,0,Twins Living Life,Thursday,6950,0,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+314,0,Twins Living Life,Friday,1848,0,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+480,0,Twins Living Life,Sunday,6461,0,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+979,0,Twins Living Life,Thursday,4632,0,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+297,0,Twins Living Life,Sunday,1856,0,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+58,0,Twins Living Life,Tuesday,2138,0,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+883,0,Twins Living Life,Thursday,2902,0,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+609,0,Twins Living Life,Sunday,7308,0,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+240,0,Twins Living Life,Thursday,816,0,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+509,0,Twins Living Life,Saturday,1927,0,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+487,0,Twins Living Life,Saturday,3542,0,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+364,0,Twins Living Life,Wednesday,664,0,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+322,0,Twins Living Life,Saturday,3591,0,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+471,0,Twins Living Life,Wednesday,91611,0,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+600,0,Twins Living Life,Saturday,3236,0,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,0,
+991,2159,Twizzie Toys TV,Tuesday,5383,1524.93,0,1,Micro (<10K),Likely Organic,Storytelling,Storyteller,0,0,0,0,1,
+1034,2159,Twizzie Toys TV,Monday,1283,363.46,0,1,Micro (<10K),Likely Organic,Unboxing,Storyteller,0,0,0,0,1,
+606,1272,Unicorns Are Real,Monday,81,7.41,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,
+147,1272,Unicorns Are Real,Tuesday,209,19.12,0,1,Micro (<10K),Likely Organic,Hacks/Insider Content,Kid Toy,0,0,0,0,1,
+640,56336,Up and Play,Saturday,14639,27.25,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+466,56336,Up and Play,Wednesday,9763,18.17,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Toy Reviewer,0,0,0,0,1,
+711,56336,Up and Play,Monday,26593,49.5,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+738,56336,Up and Play,Friday,56061,104.35,0,2,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+364,56336,Up and Play,Sunday,84637,157.55,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Toy Reviewer,0,0,0,0,1,
+282,56336,Up and Play,Monday,16949,31.55,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,
+873,56336,Up and Play,Wednesday,14618,27.21,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+802,56336,Up and Play,Saturday,17909,33.34,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+885,56336,Up and Play,Saturday,50062,93.19,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Toy Reviewer,0,0,0,0,1,
+624,56336,Up and Play,Saturday,33605,62.55,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+275,56336,Up and Play,Monday,11119,20.7,0,1,Mid Scale (10K-100K),Likely Organic,Challenge,Toy Reviewer,0,0,0,0,1,
+390,56336,Up and Play,Friday,248526,462.62,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+937,56336,Up and Play,Monday,19507,36.31,0,1,Mid Scale (10K-100K),Likely Organic,Hacks/Insider Content,Toy Reviewer,0,0,0,0,1,
+609,56336,Up and Play,Tuesday,28953,53.9,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+1050,56336,Up and Play,Tuesday,25213,46.93,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+608,56336,Up and Play,Thursday,36690,68.3,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+879,56336,Up and Play,Sunday,18052,33.6,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+408,56336,Up and Play,Friday,26468,49.27,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+277,56336,Up and Play,Saturday,11063,20.59,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+950,56336,Up and Play,Sunday,155942,290.29,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+1019,56336,Up and Play,Monday,59676,111.09,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+606,56336,Up and Play,Tuesday,23270,43.32,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+1148,56336,Up and Play,Wednesday,69032,128.51,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+126,56336,Up and Play,Tuesday,43819,81.58,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,1,
+419,56336,Up and Play,Friday,27948,52.03,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+355,56336,Up and Play,Sunday,201740,375.59,0,1,Mid Scale (10K-100K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,1,
+454,56336,Up and Play,Monday,297532,553.94,0,2,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+509,56336,Up and Play,Thursday,39669,73.86,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+667,56336,Up and Play,Tuesday,47993,89.35,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+967,56336,Up and Play,Tuesday,105944,197.25,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+827,56336,Up and Play,Friday,88714,165.17,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+945,56336,Up and Play,Saturday,32847,61.16,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+610,56336,Up and Play,Sunday,53515,99.64,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+636,56336,Up and Play,Tuesday,24691,45.97,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+273,56336,Up and Play,Wednesday,92326,171.89,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+602,56336,Up and Play,Saturday,65519,121.98,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+914,56336,Up and Play,Sunday,24913,46.38,0,1,Mid Scale (10K-100K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+702,4704,Young Wild Me! - Kids Toy Channel,Tuesday,7584,168.57,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+830,4704,Young Wild Me! - Kids Toy Channel,Wednesday,4314,95.89,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+189,4704,Young Wild Me! - Kids Toy Channel,Friday,4796,106.6,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,1,
+791,4704,Young Wild Me! - Kids Toy Channel,Saturday,13112,291.44,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+1462,4704,Young Wild Me! - Kids Toy Channel,Monday,4847,107.74,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+605,4704,Young Wild Me! - Kids Toy Channel,Tuesday,3076,68.37,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+809,4704,Young Wild Me! - Kids Toy Channel,Friday,738,16.4,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+676,4704,Young Wild Me! - Kids Toy Channel,Monday,819,18.2,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+918,4704,Young Wild Me! - Kids Toy Channel,Wednesday,4198,93.31,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+931,4704,Young Wild Me! - Kids Toy Channel,Wednesday,1856,41.25,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+1176,4704,Young Wild Me! - Kids Toy Channel,Thursday,9011,200.29,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+992,4704,Young Wild Me! - Kids Toy Channel,Friday,5979,132.9,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+259,4704,Young Wild Me! - Kids Toy Channel,Friday,124482,2766.88,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+566,4704,Young Wild Me! - Kids Toy Channel,Monday,1815,40.34,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+938,4704,Young Wild Me! - Kids Toy Channel,Tuesday,2864,63.66,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+668,4704,Young Wild Me! - Kids Toy Channel,Wednesday,588,13.07,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+896,4704,Young Wild Me! - Kids Toy Channel,Monday,629,13.98,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+1119,4704,Young Wild Me! - Kids Toy Channel,Wednesday,538,11.96,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+676,4704,Young Wild Me! - Kids Toy Channel,Friday,3534,78.55,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+566,4704,Young Wild Me! - Kids Toy Channel,Saturday,1067,23.72,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+460,4704,Young Wild Me! - Kids Toy Channel,Saturday,741,16.47,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+455,4704,Young Wild Me! - Kids Toy Channel,Sunday,517,11.49,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+623,4704,Young Wild Me! - Kids Toy Channel,Monday,2690,59.79,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+428,4704,Young Wild Me! - Kids Toy Channel,Monday,571,12.69,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+370,4704,Young Wild Me! - Kids Toy Channel,Monday,500,11.11,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+609,4704,Young Wild Me! - Kids Toy Channel,Tuesday,1084,24.09,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+524,4704,Young Wild Me! - Kids Toy Channel,Tuesday,295,6.56,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+599,4704,Young Wild Me! - Kids Toy Channel,Wednesday,866,19.25,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+551,4704,Young Wild Me! - Kids Toy Channel,Wednesday,1234,27.43,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+1143,4704,Young Wild Me! - Kids Toy Channel,Thursday,13046,289.98,0,1,Micro (<10K),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,1,
+452,4704,Young Wild Me! - Kids Toy Channel,Thursday,386,8.58,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+679,4704,Young Wild Me! - Kids Toy Channel,Friday,5511,122.49,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+601,4704,Young Wild Me! - Kids Toy Channel,Friday,582,12.94,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+743,4704,Young Wild Me! - Kids Toy Channel,Saturday,517,11.49,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+550,4704,Young Wild Me! - Kids Toy Channel,Saturday,1704,37.88,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+980,4704,Young Wild Me! - Kids Toy Channel,Tuesday,7531,167.39,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+477,4704,Young Wild Me! - Kids Toy Channel,Wednesday,6484,144.12,0,1,Micro (<10K),Likely Organic,Review/Product Shoutout,Toy Reviewer,0,0,0,0,1,
+970,4704,Young Wild Me! - Kids Toy Channel,Saturday,4200,93.35,0,1,Micro (<10K),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,1,
+435,4704,Young Wild Me! - Kids Toy Channel,Monday,2993,66.53,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,1,
+817,4704,Young Wild Me! - Kids Toy Channel,Tuesday,10340,229.83,0,1,Micro (<10K),Likely Organic,Storytelling,Toy Reviewer,0,0,0,0,1,
+959,4704,Young Wild Me! - Kids Toy Channel,Friday,263,5.85,0,1,Micro (<10K),Likely Organic,Unboxing,Toy Reviewer,0,0,0,0,0,
+570,0,Zoe and Zach,Sunday,249,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,
+1097,0,Zoe and Zach,Monday,507,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,
+95,0,Zoe and Zach,Wednesday,306,0,0,1,Micro (<10K),Likely Organic,Storytelling,Kid Toy,0,0,0,0,0,
+585,0,Zoe and Zach,Sunday,338,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,
+518,0,Zoe and Zach,Sunday,520,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,
+940,0,Zoe and Zach,Sunday,215,0,0,1,Micro (<10K),Likely Organic,Challenge,Kid Toy,0,0,0,0,0,
+503,0,Zoe and Zach,Sunday,358,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,
+857,0,Zoe and Zach,Friday,371,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,
+912,0,Zoe and Zach,Friday,184,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,
+752,0,Zoe and Zach,Sunday,272,0,0,1,Micro (<10K),Likely Organic,Challenge,Kid Toy,0,0,0,0,0,
+777,0,Zoe and Zach,Friday,113,0,0,1,Micro (<10K),Likely Organic,Unboxing,Kid Toy,0,0,0,0,0,
